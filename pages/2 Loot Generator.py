@@ -27,6 +27,9 @@ selec_object = st.pills("What kind of objects do you want ? (multiple choices po
 selec_tiers = st.pills("What tier do you want ? (multiple choices possible)", options_tiers, selection_mode = "multi")
 nbr_object = st.number_input("How many items do you want ?", min_value = 1, value = 1)
 
+if st.button("Open loot database"):
+    st.dataframe(list_loot, use_container_width=True)
+
 if st.button("Generate Loot") :
     loot_list=[]
     for i in range(nbr_object):

@@ -18,8 +18,8 @@ st.html(
    <p>All three generators are SRD-compliant and do not contain any official Daggerheart out content outside of the SRD. The Loot Generator contains fan-converted and homebrewed items.
    <br>These generators are completely free of use and do not require any account.
    <p>All content  are available for free on <a href = "https://github.com/pomdpin/daggerheart-generators" target="_blank">GitHub</a>, including the database for loots and adversaries.
-   <br>If you want, you can leave a tip to the creator at : <a href="https://ko-fi.com/yoannart91940" target="_blank">https://ko-fi.com/yoannart91940</a>
-   <br>Need an illustration for your beloved PC, your BBEG or a that scene you have in mind ? You can order an art commission at : <a href="https://artistree.io/yoannart" target="_blank">https://artistree.io/yoannart</a>
+   <p>If you want, you can leave a tip to the creator at : <a href="https://ko-fi.com/yoannart91940" target="_blank">https://ko-fi.com/yoannart91940</a>
+   <br>Need an illustration for your beloved PC, your BBEG or that scene you have in mind ? You can order an art commission at : <a href="https://artistree.io/yoannart" target="_blank">https://artistree.io/yoannart</a>
    <p>
    <br>________________________________________
     <br><b>**Copyright/Attribution: Daggerheart**</b>
