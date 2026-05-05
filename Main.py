@@ -24,8 +24,8 @@ st.html(
    <br>________________________________________
     <br><b>**Copyright/Attribution: Daggerheart**</b>
          <br>*This project is unofficial fan content and is not approved or endorsed in any way by Critical Role.*
-         <br>*This product includes materials from the **Daggerheart System Reference Document 1.0**, **© Critical Role, LLC.** under the terms of the **Darrington Press Community Gaming (DPCGL) License**. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.*
-         <br>*All Rights Reserved. Sous licence **Black Book Editions**, tous droits réservés.*
+         <br>*This product includes materials from the <b>**Daggerheart System Reference Document 1.0**</b>, <b>**© Critical Role, LLC.**</b> under the terms of the <b>**Darrington Press Community Gaming (DPCGL) License**</b>. More information can be found at <a href="https://www.daggerheart.com"></a>. There are no previous modifications by others.*
+         <br>*All Rights Reserved. Sous licence <b>**Black Book Editions**</b>, tous droits réservés.*
     
 """
 )
