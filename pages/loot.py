@@ -17,7 +17,7 @@ from pathlib import Path
 st.title("Daggerheart")
 st.header("Loot Generator")
 
-files = Path("file")
+files = Path("files")
 list_loot = pd.read_csv(files/"List_loot.csv", encoding='latin1', sep=";")
 
 options_object = ["Item", "Consumable","Armor","Primary Weapon", "Secondary Weapon"]
