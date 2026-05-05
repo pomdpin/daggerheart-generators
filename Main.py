@@ -6,25 +6,24 @@ st.set_page_config(
 
 st.write("# Welcome to Daggerheart Generator")
 
-st.markdown(
+st.html(
     """
     Daggerheart Generator is a fan-made WebApp specifically created to help GMs prepare their Daggerheart adventure.
     
     Create brand new NPCs with ancestry-based descriptions and unique traits with our NPC Generator !
-    Or generate a bunch of items for your party to loot from the chests of this dungeon they're exploring with our Loot Generator !
-    And of course, no treasure chest would be complete without some adversaries to fight against, with our Encounter Generator !
+    \rOr generate a bunch of items for your party to loot from the chests of this dungeon they're exploring with our Loot Generator !
+    \rAnd of course, no treasure chest would be complete without some adversaries to fight against, with our Encounter Generator !
 
    
     All three generators are SRD-compliant and do not contain any official Daggerheart out content outside of the SRD. 
-    The Loot Generator contains fan-converted and homebrewed items.
-    All content  are available for free on GitHub, including the database for loots and adversaries.
-    - https://github.com/pomdpin/daggerheart-generators
+    \rThe Loot Generator contains fan-converted and homebrewed items.
+    \rAll content  are available for free on GitHub, including the database for loots and adversaries.
+    <ul>https://github.com/pomdpin/daggerheart-generators</ul>
 
-    These generators are completely free of use and do not require any account.
-    If you want, you can leave a tip to the creator at : https://ko-fi.com/yoannart91940
+    \rThese generators are completely free of use and do not require any account.
+    \rIf you want, you can leave a tip to the creator at : https://ko-fi.com/yoannart91940
+    \rNeed an illustration for your beloved PC, your BBEG or a that scene you have in mind ? You can order an art commission at : https://artistree.io/yoannart
 
-    Need an illustration for your beloved PC, your BBEG or a that scene you have in mind ? You can order an art commission at : https://artistree.io/yoannart
-    
     ________________________________________
          **Copyright/Attribution: Daggerheart**
          \r*This project is unofficial fan content and is not approved or endorsed in any way by Critical Role.*
