@@ -1,0 +1,130 @@
+﻿Name;Tier;Type;Description;Terrain
+ACID BURROWER;1;Solo;A horse-sized insect with digging claws and acidic blood;Desert, Mountain, Cave, Grassland
+ARCHER GUARD;1;Ranged;A tall guard bearing a longbow and quiver with arrows fletched in the settlement’s colors;Urban, Ruins, Grassland, Dungeons, Coast, Sea
+BEAR;1;Bruiser;A large bear with thick fur and powerful claws;Forest,Grassland, Ruins, Cave, Mountain, Arctic
+BLADED GUARD;1;Standard;An armored guard bearing a sword and shield painted in the settlement’s colors;Urban, Ruins, Grassland, Dungeons, Coast, Sea
+BRAWNY ZOMBIE;1;Bruiser;A large corpse, decay-bloated and angry;Cave, Ruin, Swamp, Dungeons
+CAVE OGRE;1;Solo;A massive humanoid who sees all sapient life as food;Cave, Ruin, Mountain
+CONSTRUCT;1;Solo;A roughly humanoid being of stone and steel, assembled and animated by magic;Ruins, Swamp, Urban, Mountain, Dungeons
+COURTIER;1;Social;An ambitious and ostentatiously dressed Socialite;Urban
+DEEPROOT DEFENDER;1;Bruiser;A burly vegetable-person with grasping vines;Swamp, Forest, Ruins
+DIRE WOLF;1;Skulk;A large wolf with menacing teeth, seldom encountered alone;Forest, Grassland
+GIANT MOSQUITOES;1;Horde;Dozens of fist-sized mosquitoes, flying together for protection;Forest, Grassland, Swamp
+GIANT RAT;1;Minion;A cat-sized rodent skilled at scavenging and survival;Urban, Ruins, Cave
+GIANT SCORPION;1;Bruiser;A human-sized insect with tearing claws and a stinging tail;Desert, Mountain, Cave, Ruins
+GLASS SNAKE;1;Standard;A clear serpent with a massive head that leaves behind a glass shard trail wherever they go;Mountain, Desert, Grassland, Forest, Ruins, Cave
+GREEN OOZE;1;Skulk;A moving mound of translucent green slime;Cave, Ruins, Grassland, Forest, Dungeons
+HARRIER;1;Standard;A nimble fighter armed with javelins;Urban, Ruins, Grassland, Dungeons
+HEAD GUARD;1;Leader;A seasoned guard with a mace, a whistle, and a bellowing voice;Urban, Ruins, Grassland, Dungeons
+JAGGED KNIFE BANDIT;1;Standard;A cunning criminal in a cloak bearing one of the gang’s iconic knives;Urban, Ruins, Grassland, Forest, Desert, Mountain, Dungeons
+JAGGED KNIFE HEXER;1;Support;A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes;Urban, Ruins, Grassland, Forest, Desert, Mountain, Dungeons
+JAGGED KNIFE KNEEBREAKER;1;Bruiser;An imposing brawler carrying a large club;Urban, Ruins, Grassland, Forest, Desert, Mountain, Dungeons
+JAGGED KNIFE LACKEY;1;Minion;A thief with simple clothes and small daggers, eager to prove themselves;Urban, Ruins, Grassland, Forest, Desert, Mountain, Dungeons
+JAGGED KNIFE LIEUTENANT;1;Leader;A seasoned bandit in quality leathers with a strong voice and cunning eyes;Urban, Ruins, Grassland, Forest, Desert, Mountain, Dungeons
+JAGGED KNIFE SHADOW;1;Skulk;A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets;Urban, Ruins, Grassland, Forest, Desert, Mountain, Dungeons
+JAGGED KNIFE SNIPER;1;Ranged;A lanky bandit striking from cover with a shortbow;Urban, Ruins, Grassland, Forest, Desert, Mountain, Dungeons
+MERCHANT;1;Social;A finely dressed trader with a keen eye for financial gain;Urban, Grassland, Mountain
+MINOR CHAOS ELEMENTAL;1;Solo;A coruscating mass of uncontrollable magic;Ruins,  Cave, Dungeons
+MINOR DEMON;1;Solo;A crimson-hued creature from the Circles Below, consumed by rage against all mortals;Ruins, Mountain, Cave, Swamp, Dungeons
+MINOR FIRE ELEMENTAL;1;Solo;A living flame the size of a large bonfire;Desert, Cave, Ruins, Dungeons
+MINOR TREANT;1;Minion;An ambulatory sapling rising up to defend their forest;Forest, Grassland, Mountain, Swamp
+PATCHWORK ZOMBIE HULK;1;Solo;A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling;Cave, Ruins, Dungeons
+PETTY NOBLE;1;Social;A richly dressed and adorned aristocrat brimming with hubris;Urban
+PIRATE CAPTAIN;1;Leader;A charismatic sea dog with an impressive hat, eager to raid and plunder;Urban, Coast, Sea
+PIRATE RAIDERS;1;Horde;Seafaring scoundrels moving in a ravaging pack;Urban, Coast, Sea
+PIRATE TOUGH;1;Bruiser;A thickly muscled and tattooed pirate with melon-sized fists;Urban, Coast, Sea
+RED OOZE;1;Skulk;A moving mound of translucent flaming red slime;Ruins, Cave, Dungeons
+ROTTED ZOMBIE;1;Minion;A decaying corpse ambling toward their prey;Ruins, Cave, Dungeons
+SELLSWORD;1;Minion;An armed mercenary testing their luck;Urban, Mountain, Ruins, Forest, Grassland, Desert, Dungeons
+SHAMBLING ZOMBIE;1;Standard;An animated corpse that moves shakily, driven only by hunger;Ruins, Cave, Dungeons
+SKELETON ARCHER;1;Ranged;A fragile skeleton with a shortbow and arrows;Ruins, Cave, Dungeons
+SKELETON DREDGE;1;Minion;A clattering pile of bones;Ruins, Cave, Dungeons
+SKELETON KNIGHT;1;Bruiser;A large armored skeleton with a huge blade;Ruins, Cave, Dungeons
+SKELETON WARRIOR;1;Standard;A dirt-covered skeleton armed with a rusted blade;Ruins, Cave, Dungeons
+SPELLBLADE;1;Leader;A mercenary combining swordplay and magic to deadly effect;Urban, Mountain, Ruins, Forest, Grassland, Desert, Dungeons
+SWARM OF RATS;1;Horde;A skittering mass of ordinary rodents moving as one like a ravenous wave;Urban, Cave,  Ruins
+SYLVAN SOLDIER;1;Standard;A faerie warrior adorned in armor made of leaves and bark;Forest, Grassland
+TANGLE BRAMBLE;1;Minion;An animate, blood-drinking tumbleweed;Desert, Grassland
+TANGLE BRAMBLE SWARM;1;Horde;A cluster of animated, blood-drinking tumbleweeds, each the size of a large gourd;Desert, Grassland
+TINY GREEN OOZE;1;Skulk;A small moving mound of translucent green slime;Cave, Ruin, Grassland, Forest, Dungeons
+TINY RED OOZE;1;Skulk;A small moving mound of translucent flaming red slime;Cave, Ruin, Dungeons
+WEAPONMASTER;1;Bruiser;A master-at-arms wielding a sword twice their size;Urban, Mountain, Ruins, Forest, Grassland, Desert, Dungeons
+YOUNG DRYAD;1;Leader;An imperious tree-person leading their forest’s defenses;Forest, Grassland
+ZOMBIE PACK;1;Horde;A group of shambling corpses instinctively moving together;Ruins, Cave, Dungeons
+APPRENTICE ASSASSIN;2;Minion;A young trainee eager to prove themselves;Urban, Forest, Mountain, Cave, Dungeons
+ARCHER SQUADRON;2;Horde;A group of trained archers bearing massive bows;Urban, Forest, Mountain, Grassland, Arctic, Swamp, Dungeons
+ASSASSIN POISONER;2;Skulk;A cunning scoundrel skilled in both poisons and ambushing;Urban, Forest, Mountain, Cave, Dungeons
+BATTLE BOX;2;Solo;A cube-shaped construct with a different rune on each of their six sides;Ruins, Cave, Dungeons
+CHAOS SKULL;2;Ranged;A floating humanoid skull animated by scintillating magic;Ruins, Cave, Forest, Swamp, Dungeons
+CONSCRIPT;2;Minion;A poorly trained civilian pressed into war;Urban, Grassland, Mountain, Forest, Swamp, Ruins, Cave, Desert
+COURTESAN;2;Social;An accomplished manipulator and master of the Social arts;Urban
+CULT ADEPT;2;Support;An experienced mage wielding shadow and fear;Urban, Ruins, Cave, Swamp, Forest, Dungeons
+CULT FANG;2;Skulk;A professional killer-turned-cultist;Urban, Ruins, Cave, Swamp, Forest, Dungeons
+CULT INITIATE;2;Minion;A low-ranking cultist in simple robes, eager to gain power;Urban, Ruins, Cave, Swamp, Forest, Dungeons
+DEMONIC HOUND PACK;2;Horde;Unnatural hounds lit from within by hellfire;Cave, Ruins, Swamp, Forest, Mountain, Dungeons
+ELECTRIC EELS;2;Horde;A swarm of eels that encircle and electrocute;Sea, Coast
+ELITE SOLDIER;2;Standard;An armored squire or experienced commoner looking to advance;Urban, Grassland, Forest, Mountain, Ruins, Cave, Dungeons
+FAILED EXPERIMENT;2;Standard;A magical necromantic experiment gone wrong, leaving them warped and ungainly;Ruins, Cave, Swamp, Forest, Dungeons
+GIANT BEASTMASTER;2;Leader;A leather-clad warrior bearing a whip and massive bow;Grassland, Forest, Swamp, Ruins, Arctic, Mountain, Desert, Dungeons
+GIANT BRAWLER;2;Bruiser;An especially muscular giant wielding a warhammer larger than a human;Grassland, Forest, Swamp, Ruins, Arctic, Mountain, Desert, Urban, Dungeons
+GIANT EAGLE;2;Skulk;A giant bird of prey with blood-stained talons;Forest, Mountain, Grassland
+GIANT RECRUIT;2;Minion;A giant fighter undergoing borrowed armor;Grassland, Forest, Swamp, Ruins, Arctic, Mountain, Desert, Dungeons
+GORGON;2;Solo;A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed;Ruins, Cave, Forest, Grassland, Dungeons
+JUVENILE FLICKERFLY;2;Solo;A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see;Grassland, Forest, Swamp, Mountain
+KNIGHT OF THE REALM;2;Leader;A decorated soldier with heavy armor and a powerful steed;Urban, Forest, Desert, Mountain, Arctic, Grassland, Cave, Ruins, Dungeons
+MASKED THIEF;2;Skulk;A cunning thief with acrobatic skill and a flair for the dramatic;Urban, Coast
+MASTER ASSASSIN;2;Leader;A seasoned killer with a threatening voice and a deadly blade;Urban, Forest, Coast
+MERCHANT BARON;2;Social;An accomplished merchant with a large operation under their command;Urban, Coast, Sea
+MINOTAUR WRECKER;2;Bruiser;A massive bull-headed hybrid with a quick temper;Ruins, Grassland, Cave, Mountain, Forest, Dungeons
+MORTAL HUNTER;2;Leader;An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor;Urban, Grassland, Cave, Forest, Swamp, Mountain, Arctic, Ruins, Desert, Coast, Sea
+ROYAL ADVISOR;2;Social;A high-ranking courtier with the ear of the local nobility;Urban, Sea
+SECRET-KEEPER;2;Leader;A clandestine Leader  with a direct channel to the Fallen Gods;Urban, Ruins, Dungeons
+SHARK;2;Bruiser;A large aquatic predator, always on the move;Sea, Coast
+SIREN;2;Skulk;A half fish person with shimmering scales and an irresistible voice;Sea, Coast
+SPECTRAL ARCHER;2;Ranged;A ghostly fighter with an ethereal bow, unable to move on while their charge is vulnerable;Ruins, Dungeons
+SPECTRAL CAPTAIN;2;Leader;A ghostly commander leading their troops beyond death;Ruins, Dungeons
+SPECTRAL GUARDIAN;2;Standard;A ghostly fighter with spears and swords, anchored by duty;Ruins, Dungeons
+SPY;2;Social;A skilled espionage agent with a knack for being in the right place to overhear secrets;Urban
+STONEWRAITH;2;Skulk;A prowling hunter, like a slinking mountain lion, with a slate-gray stone body;Mountain, Desert, Grassland, Forest, Ruins, Cave
+WAR WIZARD;2;Ranged;A battle-hardened mage trained in destructive magic;Urban, Grassland, Ruins, Forest, Mountain, Sea, Coast, Arctic, Desert, Swamp, Cave, Dungeons
+ADULT FLICKERFLY;3;Solo;A winged insect the size of a large house with iridescent scales and wings that move too fast to track;Grassland, Forest, Swamp, Mountain
+DEMON OF AVARICE;3;Support;A regal cloaked monstrosity with circular horns adorned with treasure;Ruins, Dungeons
+DEMON OF DESPAIR;3;Skulk;A cloaked one-creature with long limbs, seeping shadows;Ruins, Dungeons
+DEMON OF HUBRIS;3;Leader;A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes;Ruins, Dungeons
+DEMON OF JEALOUSY;3;Ranged;A fickle creature of spindly limbs and insatiable desires;Ruins, Dungeons
+DEMON OF WRATH;3;Bruiser;A hulking demon with boulder-sized fists, driven by endless rage;Ruins, Dungeons
+DIRE BAT;3;Skulk;A winged pet endlessly loyal to their vampire owner;Cave, Ruins, Forest, Dungeons
+DRYAD;3;Leader;A nature spirit in the form of a humanoid tree;Forest, Grassland
+ELEMENTAL SPARK;3;Minion;A blazing mote of elemental fire;Desert,  Cave, Ruins, Mountain
+GREATER EARTH ELEMENTAL;3;Bruiser;A living landslide of boulders and dust, as large as a house;Mountain, Grassland, Desert, Cave
+GREATER WATER ELEMENTAL;3;Support;A huge living wave that crashes down upon enemies;Sea, Coast, Swamp
+HEAD VAMPIRE;3;Leader;A captivating undead dressed in aristocratic finery;Ruins, Cave, Dungeons
+HUGE GREEN OOZE;3;Skulk;A translucent green mound of acid taller than most humans;Dungeons, Ruins, Cave, Grassland
+HYDRA;3;Solo;A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs;Coast, Swamp, Cave
+MONARCH;3;Social;The sovereign ruler of a nation, unearthed in the privilege of tradition and wielding unmatched power in their domain;Urban, Dungeons
+OAK TREANT;3;Bruiser;A sturdy animated old-growth tree;Forest, Swamp, Grassland
+STAG KNIGHT;3;Standard;A knight with huge, majestic antlers wearing armor made of dangerous thorns;Urban, Dungeons, Coast, Grassland, Forest, Ruins
+TREANT SAPLING;3;Minion;A small, sentient tree sapling;Forest, Swamp, Grassland
+VAMPIRE;3;Standard;An intelligent undead with blood-stained lips and a predator’s smile;Cave, Ruins, Dungeons
+VAULT GUARDIAN GAOLER;3;Support;A boxy, dust-covered construct with thick metallic swinging doors on their torso;Urban, Cave, Dungeons
+VAULT GUARDIAN SENTINEL;3;Bruiser;A dust-covered golden construct with boxy limbs and a huge mace for a hand;Urban, Cave, Dungeons
+VAULT GUARDIAN TURRET;3;Ranged;A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs;Urban, Cave, Dungeons
+YOUNG ICE DRAGON;3;Solo;A glacier-blue dragon with four powerful limbs and frost-tinged wings;Arctic, Mountain
+ARCH-NECROMANCER;4;Leader;A decaying mage adorned in dark, tattered robes;Dungeons, Ruins
+FALLEN SHOCK TROOP;4;Minion;A cursed soul bound to the Fallen’s will;Dungeons, Ruins
+FALLEN SORCERER;4;Support;Warped mage bound by the bargains they made in life;Dungeons, Ruins
+FALLEN WARLORD: REALM-BREAKER;4;Solo;A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits;Dungeons, Ruins
+FALLEN WARLORD: UNDEFEATED CHAMPION;4;Solo;That which only the most feared have a chance to fear;Dungeons, Ruins
+HALLOWED ARCHER;4;Ranged;Spirit soldiers with sanctified bows;Dungeons, Ruins
+HALLOWED SOLDIER;4;Minion;Souls of the faithful, lifted up with divine weaponry;Dungeons, Ruins
+HIGH SERAPH;4;Leader;A divine champion, head of a hallowed host of warriors who enforce their god’s will;Dungeons
+KRAKEN;4;Solo;A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw;Sea
+ORACLE OF DOOM;4;Solo;A towering immortal and incarnation of fate, cursed to only see bad outcomes;Dungeons
+OUTER REALMS ABOMINATION;4;Bruiser;A chaotic mockery of life, constantly in flux;Dugeons
+OUTER REALMS CORRUPTER;4;Support;A shifting, formless mass seemingly made of chromatic light;Dugeons
+OUTER REALMS THRALL;4;Minion;A vaguely humanoid form stripped of memory and identity;Dugeons
+PERFECTED ZOMBIE;4;Bruiser;A towering, muscular zombie with magically infused strength and skill;Cave, Ruins, Dungeons
+VOLCANIC DRAGON: ASHEN TYRANT;4;Solo;A legendary, lava-hardened dragon.  No enemy has ever had the insolence to wound the dragon so;Mountain
+VOLCANIC DRAGON: MOLTEN SCOURGE;4;Solo;Engaged by their wounds, the dragon bursts into molten lava;Mountain
+VOLCANIC DRAGON: OBSIDIAN PREDATOR;4;Solo;A massive winged creature with obsidian scales and impossibly sharp claws;Mountain
+ZOMBIE LEGION;4;Horde;A large pack of undead, still powerful despite their rotting flesh;Cave, Ruins, Dungeons

@@ -1,0 +1,521 @@
+Type;Rarity;Name;Description
+Armor;Tier 1 - Common;Gambeson Armor;<b>Base Thresholds</b>: 5/11, <b>Base Score</b>: 3 <br><b>Flexible</b>: +1 to Evasion
+Armor;Tier 1 - Common;Leather Armor;<b>Base Thresholds</b>: 6/13, <b>Base Score</b>: 3
+Armor;Tier 1 - Common;Chainmail Armor;<b>Base Thresholds</b>: 7/15, <b>Base Score</b>: 4 <br><b>Heavy</b>: -1 to Evasion
+Armor;Tier 1 - Common;Full Plate Armor;"<b>Base Thresholds</b>: 8/17, <b>Base Score</b>: 4 <br><b>Very Heavy</b>: -2 to Evasion; -1 to Agility"
+Armor;Tier 4 - Legendary;Legendary Gambeson Armor;<b>Base Thresholds</b>: 11/32, <b>Base Score</b>: 6 <br><b>Flexible</b>: +1 to Evasion
+Armor;Tier 4 - Legendary;Legendary Leather Armor;<b>Base Thresholds</b>: 13/36, <b>Base Score</b>: 6
+Armor;Tier 4 - Legendary;Legendary Chainmail Armor;<b>Base Thresholds</b>: 15/40, <b>Base Score</b>: 7 <br><b>Heavy</b>: -1 to Evasion
+Armor;Tier 4 - Legendary;Legendary Full Plate Armor;"<b>Base Thresholds</b>: 17/44, <b>Base Score</b>: 7 <br><b>Very Heavy</b>: -2 to Evasion; -1 to Agility"
+Armor;Tier 4 - Legendary;Dunamis Silkchain;<b>Base Thresholds</b>: 13/36, <b>Base Score</b>: 7 <br><b>Timeslowing</b>: Mark an Armor Slot to roll a d4 and add itsresult as a bonus to your Evasion against an incoming attack.
+Armor;Tier 4 - Legendary;Channeling Armor;<b>Base Thresholds</b>: 13/36, <b>Base Score</b>: 6 <br><b>Channeling</b>: +1 to Spellcast Rolls.
+Armor;Tier 4 - Legendary;Emberwoven Armor;<b>Base Thresholds</b>: 13/36, <b>Base Score</b>: 6 <br><b>Burning</b>: When an adversary attacks you within Melee range, they mark a Stress.
+Armor;Tier 4 - Legendary;Full Fortified Armor;<b>Base Thresholds</b>: 15/40, <b>Base Score</b>: 4 <br><b>Fortified</b>: When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one.
+Armor;Tier 4 - Legendary;Veritas Opal Armor;<b>Base Thresholds</b>: 13/36, <b>Base Score</b>: 6 <br><b>Truthseeking</b>: This armor glows when another creature within Close range tells a lie.
+Armor;Tier 4 - Legendary;Savior Chainmail;<b>Base Thresholds</b>: 18/48, <b>Base Score</b>: 8 <br><b>Difficult</b>: -1 to all character traits and Evasion.
+Armor;Tier 3 - Rare;Advanced Gambeson Armor;<b>Base Thresholds</b>: 9/23, <b>Base Score</b>: 5 <br><b>Flexible</b>: +1 to Evasion
+Armor;Tier 3 - Rare;Advanced Leather Armor;<b>Base Thresholds</b>: 11/27, <b>Base Score</b>: 5
+Armor;Tier 3 - Rare;Advanced Chainmail Armor;<b>Base Thresholds</b>: 13/31, <b>Base Score</b>: 6 <br><b>Heavy</b>: -1 to Evasion
+Armor;Tier 3 - Rare;Advanced Full Plate Armor;"<b>Base Thresholds</b>: 15/35, <b>Base Score</b>: 6 <br><b>Very Heavy</b>: -2 to Evasion; -1 to Agility"
+Armor;Tier 3 - Rare;Bellamoi Fine Armor;<b>Base Thresholds</b>: 11/27, <b>Base Score</b>: 5 <br><b>Gilded</b>: +1 to Presence
+Armor;Tier 3 - Rare;Dragonscale Armor;<b>Base Thresholds</b>: 11/27, <b>Base Score</b>: 5 <br><b>Impenetrable</b>: Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress.
+Armor;Tier 3 - Rare;Spiked Plate Armor;<b>Base Thresholds</b>: 10/25, <b>Base Score</b>: 5 <br><b>Sharp</b>: On a sucessful attack against a target within Melee range, add a d4 to the damage roll.
+Armor;Tier 3 - Rare;Bladefare Armor;<b>Base Thresholds</b>: 16/39, <b>Base Score</b>: 6 <br><b>Physical</b>: You can't mark an Armor Slot to reduce magic damage.
+Armor;Tier 3 - Rare;Monett's Cloak;<b>Base Thresholds</b>: 16/39, <b>Base Score</b>: 6 <br><b>Magic</b>: You can't mark an Armor Slot to reduce physical damage.
+Armor;Tier 3 - Rare;Runes of Fortification;<b>Base Thresholds</b>: 17/43, <b>Base Score</b>: 6 <br><b>Painful</b>: Each time you mark an Armor Slot, you must mark a Stress.
+Armor;Tier 2 - Uncommon;Improved Gambeson Armor;<b>Base Thresholds</b>: 7/16, <b>Base Score</b>: 4 <br><b>Flexible</b>: +1 to Evasion
+Armor;Tier 2 - Uncommon;Improved Leather Armor;<b>Base Thresholds</b>: 9/20, <b>Base Score</b>: 4
+Armor;Tier 2 - Uncommon;Improved Chainmail Armor;<b>Base Thresholds</b>: 11/24, <b>Base Score</b>: 5 <br><b>Heavy</b>: -1 to Evasion
+Armor;Tier 2 - Uncommon;Improved Full Plate Armor;"<b>Base Thresholds</b>: 13/28, <b>Base Score</b>: 5 <br><b>Very Heavy</b>: -2 to Evasion; -1 to Agility"
+Armor;Tier 2 - Uncommon;Elundrian Chain Armor;<b>Base Thresholds</b>: 9/21, <b>Base Score</b>: 4 <br><b>Warded</b>: You reduce incoming magic damage by your Armor Score before applying to your damage thresholds.
+Armor;Tier 2 - Uncommon;Harrowbone Armor;<b>Base Thresholds</b>: 9/21, <b>Base Score</b>: 4 <br><b>Resilient</b>: Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.
+Armor;Tier 2 - Uncommon;Irontree Breastplate Armor;<b>Base Thresholds</b>: 9/20, <b>Base Score</b>: 4 <br><b>Reinforced</b>: When you mark your last ArmorSlot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot.
+Armor;Tier 2 - Uncommon;Runetan Floating Armor;<b>Base Thresholds</b>: 9/20, <b>Base Score</b>: 4 <br><b>Shifting</b>: When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage.
+Armor;Tier 2 - Uncommon;Tyris Soft Armor;<b>Base Thresholds</b>: 8/18, <b>Base Score</b>: 5 <br><b>Quiet</b>: You gain a +2 bonus to rolls you make to move silently.
+Armor;Tier 2 - Uncommon;Rosewild Armor;<b>Base Thresholds</b>: 11/23, <b>Base Score</b>: 5 <br><b>Hopeful</b>: When you would spend a Hope, you can mark an Armor Slot instead.
+Consumable;Tier 1 - Common;Stride Potion ;You gain a +1 bonus to your next Agility Roll. 
+Consumable;Tier 1 - Common;Bolster Potion ;You gain a +1 bonus to your next Strength Roll. 
+Consumable;Tier 1 - Common;Control Potion ;You gain a +1 bonus to your next Finesse Roll. 
+Consumable;Tier 1 - Common;Attune Potion ;You gain a +1 bonus to your next Instinct Roll. 
+Consumable;Tier 1 - Common;Charm Potion ;You gain a +1 bonus to your next Presence Roll. 
+Consumable;Tier 1 - Common;Enlighten Potion ;You gain a +1 bonus to your next Knowledge Roll. 
+Consumable;Tier 1 - Common;Minor Health Potion ;Clear 1d4 HP. 
+Consumable;Tier 1 - Common;Minor Stamina Potion ;Clear 1d4 Stress. 
+Consumable;Tier 1 - Common;Grindletooth Venom ;You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon. 
+Consumable;Tier 1 - Common;Varik Leaves ;You can eat these paired leaves to immediately gain 2 Hope. 
+Consumable;Tier 1 - Common;Vial of Moondrip ;When you drink the contents of this vial, you can see in total darkness until your next rest. 
+Consumable;Tier 1 - Common;Unstable Arcane Shard ;You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage. 
+Consumable;Tier 1 - Common;Potion of Stability ;You can drink this potion to choose one additional downtime move. 
+Consumable;Tier 1 - Common;Improved Grindletooth Venom ;You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon. 
+Consumable;Tier 1 - Common;Morphing Clay ;You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest. 
+Consumable;Tier 1 - Common;Vial of Darksmoke ;When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack. 
+Consumable;Tier 1 - Common;Jumping Root ;Eat this root to leap up to Far range once without needing to roll. 
+Consumable;Tier 1 - Common;Snap Powder ;Mark a Stress and clear a HP. 
+Consumable;Tier 1 - Common;Armor Stitcher ;You can use this stitcher to spend any number of Hope and clear that many Armor Slots. 
+Consumable;Tier 1 - Common;Gill Salve ;You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level. 
+Consumable;Tier 1 - Common;Replication Parchment ;By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper. 
+Consumable;Tier 1 - Common;Improved Arcane Shard ;You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage. 
+Consumable;Tier 1 - Common;Bead of Nourishment;This bead provides as much nourishment as 1 day of rations.
+Consumable;Tier 1 - Common;Bead of Refreshment;This bead transforms up to a pint of the liquid into fresh drinking water.
+Consumable;Tier 1 - Common;Candle of the Deep;This candle is not extinguished when immersed in water.
+Consumable;Tier 1 - Common;Dark Shard Amulet;You can break this amulet to create a zone of complete darkness spreading to Close range.
+Consumable;Tier 1 - Common;Heward's Handy Spice Pouch;Whenever you reach into this pouch, you can obtain any food seasoning of your choce. Can be used 10 times.
+Consumable;Tier 1 - Common;Horn of Silent Alarm;When you blow into that horn, you can make one creature of your choosing hear the sound no matter the distance. Can be used 4 times.
+Consumable;Tier 1 - Common;Instrument of Scribing;This instrument can write magical message on any surface that will last 24 hours. Can be used 3 times.
+Consumable;Tier 1 - Common;Mystery Key;On a crit, this key can unlock a lock once.
+Consumable;Tier 1 - Common;Perfume of Bwitching;Whenever you wear this perfume, you have advantage on Presence Action Rolls directed at humanoids for 1 hour.
+Consumable;Tier 1 - Common;Potion of Climbing;This potion gives you incredible Climbing skills. Gain a +2 to your next Action Roll for climbing.
+Consumable;Tier 4 - Legendary;Bridge Seed ;Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next short rest. 
+Consumable;Tier 4 - Legendary;Sleeping Sap ;You can drink this potion to fall asleep for a full night's rest. You clear all Stress upon waking. 
+Consumable;Tier 4 - Legendary;Feast of Xuria ;You can eat this meal to clear all HP and Stress and gain 1d4 Hope. 
+Consumable;Tier 4 - Legendary;Bonding Honey ;This honey can be used to glue two objects together permanently. 
+Consumable;Tier 4 - Legendary;Shrinking Potion ;You can drink this potion to halve your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Agility and a ?1 penalty to your Proficiency. 
+Consumable;Tier 4 - Legendary;Growing Potion ;You can drink this potion to double your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Strength and a +1 bonus to your Proficiency. 
+Consumable;Tier 4 - Legendary;Knowledge Stone ;If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles. 
+Consumable;Tier 4 - Legendary;Sweet Moss ;You can consume this moss during a rest to clear 1d4 HP or 1d4 Stress. 
+Consumable;Tier 4 - Legendary;Blinding Orb ;You can activate this orb to create a flash of bright light. All targets within Close range become Vulnerable until they mark HP. 
+Consumable;Tier 4 - Legendary;Death Tea ;After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don't critically succeed on an attack before your next long rest, you die. 
+Consumable;Tier 4 - Legendary;Mirror of Marigold ;When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters. 
+Consumable;Tier 4 - Legendary;Stardrop ;You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range. 
+Consumable;Tier 4 - Legendary;Cubic Gate;A 1-foot cube with intricate arcanic patterns. Once activated with Knowledge or Instinct Roll (20), the cube will extend from its position up to Far Range in all direction. Everything enclosed in the Cubic Gate will be transported at any place decided by the caster that is physically reachable. Can only be used once.
+Consumable;Tier 4 - Legendary;Potion of Dragon's Majesty;Transform into an adult dragon for 1 hour.
+Consumable;Tier 4 - Legendary;Ring of Altered Reality;Once, you can spend 4 Hope to cast the spell Adjust Reality.
+Consumable;Tier 4 - Legendary;Sovereign Glue;Once applied, this glue cannot be removed and the object cannot be separated.
+Consumable;Tier 4 - Legendary;Sphere of Annihilation;A 2-foot diameter deep black sphere that, once activated, completely desintegrate anything that comes in contact with it in a Far range, including the sphere itself.
+Consumable;Tier 4 - Legendary;Talisman of Pure Good;The talisman contains the pure essence of Good. When freed, the Essence will cover a range of Far and cleanse any ailment and curse. Clear all Stress and HP, as well as negative status.
+Consumable;Tier 4 - Legendary;Talisman of the Sphere;When activated, the Talisman created an unpenetrable sphere up to Very Close Range that will last for 10min before dissolving. Can be used once.
+Consumable;Tier 4 - Legendary;Talisman of Ultimate Evil;The talisman contains the pure essence of Eviil. When freed, the Essence will cover a range of Far and causes ailment and curse. Mark all Stress and lose all Hope. You cannot clear Stress through Short Rest. When taking a Long Rest, you can only clear Stress using a Short Rest Move.
+Consumable;Tier 3 - Rare;Hopehold Flare ;When you use this flare, allies within Close range roll a d6 when they spend a Hope. On a result of 6, they gain the effect of that Hope without spending it. The flare lasts until the end of the scene. 
+Consumable;Tier 3 - Rare;Major Arcane Shard ;You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 4d20 magic damage. 
+Consumable;Tier 3 - Rare;Featherbone ;You can use this bone to control your falling speed for a number of minutes equal to your level. 
+Consumable;Tier 3 - Rare;Circle of the Void ;Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage. 
+Consumable;Tier 3 - Rare;Sun Tree Sap ;Consume this sap to roll a d6. On a result of 5�6, clear 2 HP. On a result of 2�4, clear 3 Stress. On a result of 1, see through the veil of death and return changed, gaining one scar. 
+Consumable;Tier 3 - Rare;Dripfang Poison ;A creature who consumes this poison takes 8d10 direct magic damage. 
+Consumable;Tier 3 - Rare;Major Health Potion ;Clear 1d4+2 HP. 
+Consumable;Tier 3 - Rare;Major Stamina Potion ;Clear 1d4+2 Stress. 
+Consumable;Tier 3 - Rare;Ogre Musk ;You can use this musk to prevent anyone from tracking you by mundane or magical means until your next rest. 
+Consumable;Tier 3 - Rare;Wingsprout ;You gain magic wings that allow you to fly for a number of minutes equal to your level. 
+Consumable;Tier 3 - Rare;Jar of Lost Voices ;You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage. 
+Consumable;Tier 3 - Rare;Dragonbloom Tea ;You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take d20 physical damage using your Proficiency. 
+Consumable;Tier 3 - Rare;Astral Shard;Make a Finesse Roll to throw the Shard toward a creature. The creature must succeed an Instinct Roll (18) or be sent in another random plane or dimension for 1d6 minutes.
+Consumable;Tier 3 - Rare;Atlas of Endless Horizons;The book contains 6 Arcana spells up to Tier 3. Each spells can be used once.
+Consumable;Tier 3 - Rare;Bead of Force;Make a Finesse Roll to throw the Bead up to Far Range. Each creature in Very Close range of the Bead must make a Strenght Rection Roll. On a failure, they are blasted to Far Range and take 6d10 physical damage. On a success, they are blaster to Close range and take half damages.
+Consumable;Tier 3 - Rare;Candle of Invocation;When lightning this Candle, you can make a Knowledge, Instinct or Presence Roll to summon up to 1d4 Minor Fire Elemental as long as the candle keeps burning (max 1h).
+Consumable;Tier 3 - Rare;Crystalline Chronicle;The book contains 6 Grace spells up to Tier 3. Each spells can be used once.
+Consumable;Tier 3 - Rare;Duplicitous Manuscript;The book contains 7 Midnight spells up to Tier 3. Each spells can be used once.
+Consumable;Tier 3 - Rare;Elixir of Health;Cure any disease and remove blinded, deafened, paralyzed, and poisoned conditions.
+Consumable;Tier 3 - Rare;Herbal Treatise;The book contains 7 Sage spells up to Tier 3. Each spells can be used once.
+Consumable;Tier 3 - Rare;Astral Gem;1d4 charges of the Astral Projection spell.
+Consumable;Tier 3 - Rare;Helm of Teleportation;3 charges to cast the teleport spell.
+Consumable;Tier 3 - Rare;Iron Bands of Bilarro;Make a Finesse Roll to throw this Bands to a creature at Close Range. On a success, the creature is Restrained and must succeed a Strength or Agility Roll (20) to get free. Up to one other creature in Melee range must make an Agility Reaction Roll or be caught in the Iron Bands.
+Consumable;Tier 3 - Rare;Necklace of Fireballs;1d6+3 beads to cast fireball.
+Consumable;Tier 3 - Rare;Necklace of Prayer Beads;1d8 beads to cast Reassurance, Life Ward, Divination, and Restoration.
+Consumable;Tier 3 - Rare;Potion of Clairvoyance;Grant the effect of the clairvoyance spell.
+Consumable;Tier 3 - Rare;Potion of Diminution;Grant the effect of the enlarge/reduce spell for 1d4 hours.
+Consumable;Tier 3 - Rare;Potion of Flying;Grant a flying speed equal to your walking speed for 1 hour.
+Consumable;Tier 3 - Rare;Potion of Gaseous Form;Grant the effect of the gaseous form spell for 1 hour.
+Consumable;Tier 3 - Rare;Potion of Heroism;Give 10 temporary hp and you're under the effect of the bless spell for 1 hour.
+Consumable;Tier 3 - Rare;Potion of Invisibility;You become invisible for 1 hour.
+Consumable;Tier 3 - Rare;Potion of Invulnerability;Grant resistance to all damage for 1 min.
+Consumable;Tier 3 - Rare;Potion of Longevity;Your physical age is reduced by 1d6 + 6 years.
+Consumable;Tier 3 - Rare;Potion of Mind Reading;Grant the effect of the Thought Delver spell.
+Consumable;Tier 3 - Rare;Protective Verses;The book contains 7 abjuration spells. 3 charges to grant a creature 2d10 hp.
+Consumable;Tier 3 - Rare;Scroll of Protection;You can spend two Hope to use the Scroll to reduce the damage taken by an ally at Close Range by 2 thresholds
+Consumable;Tier 3 - Rare;Shadowfell Shard;Make a Finesse Roll to throw this shard up to Far range. Creature within Very Close range must make an Agility Reaction rolls or become Blind for 10 minutes.
+Consumable;Tier 2 - Uncommon;Health Potion ;Clear 1d4+1 HP. 
+Consumable;Tier 2 - Uncommon;Stamina Potion ;Clear 1d4+1 Stress. 
+Consumable;Tier 2 - Uncommon;Major Stride Potion ;You gain a +1 bonus to your Agility until your next rest. 
+Consumable;Tier 2 - Uncommon;Major Bolster Potion ;You gain a +1 bonus to your Strength until your next rest. 
+Consumable;Tier 2 - Uncommon;Major Control Potion ;You gain a +1 bonus to your Finesse until your next rest. 
+Consumable;Tier 2 - Uncommon;Major Attune Potion ;You gain a +1 bonus to your Instinct until your next rest. 
+Consumable;Tier 2 - Uncommon;Major Charm Potion ;You gain a +1 bonus to your Presence until your next rest. 
+Consumable;Tier 2 - Uncommon;Major Enlighten Potion ;You gain a +1 bonus to your Knowledge until your next rest. 
+Consumable;Tier 2 - Uncommon;Blood of the Yorgi ;You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range. 
+Consumable;Tier 2 - Uncommon;Homet's Secret Potion ;After drinking this potion, the next successful attack you make critically succeeds. 
+Consumable;Tier 2 - Uncommon;Redthorn Saliva ;You can apply this saliva to a weapon that deals physical damage to add a d12 to your next damage roll with that weapon. 
+Consumable;Tier 2 - Uncommon;Channelstone ;You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault. 
+Consumable;Tier 2 - Uncommon;Mythic Dust ;You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon. 
+Consumable;Tier 2 - Uncommon;Acidpaste ;This paste eats away walls and other surfaces in bright flashes. 
+Consumable;Tier 2 - Uncommon;Bloodwell Vial;A vial filled with the blood of magical creature. For one hour, whenever you cast a spell, you can double your Spellcasting Trait.
+Consumable;Tier 2 - Uncommon;Deck of Illusions;A deck of 52 cards representing various animals and small objects. Drawing one at random will generate a soundless and immobile illusion of it where the card is for one minute. Once drawn, a card cannot be used again.
+Consumable;Tier 2 - Uncommon;Dust of Disappearance;A light, shimmering powder that render anything invisible for 10min when you sprinkle it on and pronounce the activating word.
+Consumable;Tier 2 - Uncommon;Dust of Dryness;A dark brown powder that will suck the moisture out of objects
+Consumable;Tier 2 - Uncommon;Dust of Sneezing and Choking;A yellowish powder that smells of mustards and onions. People breathing that powder must succeed an Instinct Reaction Roll (15) to hold their breath or be incapacitated for one minute.
+Consumable;Tier 2 - Uncommon;Elemental Gem;A gem containing some remnants of elemental power. You can throw it up to Far range with a Finesse Roll. On impact, the gem will shatter and free the elemental essence in it, inflicting 2d6 damages to creature in a Very Close range.
+Consumable;Tier 2 - Uncommon;Feywild Shard;You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against are Blinded.
+Consumable;Tier 2 - Uncommon;Oil of Slipperiness;You have advantage on Agility and Finesse roll to slip out of a grasp or grapple
+Consumable;Tier 2 - Uncommon;Periapt of Wound Closure;When breaking the Periapt, roll 1d4+1. You can distribute the result on any creature within Very Close range to clear HP.
+Consumable;Tier 2 - Uncommon;Philter of Love;Whoever drink that philter becomes enraved for one hour by the first person they see
+Consumable;Tier 2 - Uncommon;Potion of Animal Friendship;For 1 hour, animals are friendly to you and can obey small, simple orders.
+Consumable;Tier 2 - Uncommon;Potion of Fire Breath;Gain the ability to breath fire for up to 1 hour or up to 3 breathes.
+Consumable;Tier 2 - Uncommon;Potion of Growth;You double in size. Gain +1 to Strength and -1 to Agility for one hour.
+Consumable;Tier 2 - Uncommon;Potion of Poison;Deals 3d6 direct physical damage. The one who drinked the potion is Poisoned until their next rest or after succeeding on a Knowledge Roll (16). While poisoned, all your rolls are at disadvantage.
+Consumable;Tier 2 - Uncommon;Potion of Resistance;Grant resistance to one type of damage for 1 hour.
+Consumable;Tier 2 - Uncommon;Potion of Water Breathing;Grant the ability to breathe underwater for 1 hour.
+Consumable;Tier 2 - Uncommon;Stone of Good Luck (Luckstone);When an ally in Close Range fails a roll, you can spend two Hopes to break the stone and allow them to succeed with Fear instead.
+Item;Tier 1 - Common;Premium Bedroll ;During downtime, you automatically clear a Stress. 
+Item;Tier 1 - Common;Piper Whistle ;This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius. 
+Item;Tier 1 - Common;Charging Quiver ;When you succeed on an attack with an arrow stored in this quiver, gain a bonus to the damage roll equal to your current tier. 
+Item;Tier 1 - Common;Alistair's Torch ;You can light this magic torch at will. The flame's light fills a much larger space than it should, enough to illuminate a cave bright as day. 
+Item;Tier 1 - Common;Speaking Orbs ;This pair of orbs allows any creatures holding them to communicate with each other across any distance. 
+Item;Tier 1 - Common;Manacles ;This pair of locking cuffs comes with a key. 
+Item;Tier 1 - Common;Arcane Cloak ;A creature with a Spellcast trait wearing this cloak can adjust its color, texture, and size at will. 
+Item;Tier 1 - Common;Woven Net ;You can make a Finesse Roll using this net to trap a small creature. A trapped target can break free with a successful Attack Roll (16). 
+Item;Tier 1 - Common;Fire Jar ;You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a long rest. 
+Item;Tier 1 - Common;Suspended Rod ;This flat rod is inscribed with runes. When you activate the rod, it is immediately suspended in place. Until the rod is deactivated, it can't move, doesn't abide by the rules of gravity, and remains in place. 
+Item;Tier 1 - Common;Glamour Stone ;Activate this pebble-sized stone to memorize the appearance of someone you can see. Spend a Hope to magically recreate this guise on yourself as an illusion. 
+Item;Tier 1 - Common;Empty Chest ;This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it. 
+Item;Tier 1 - Common;Companion Case ;This case can fit a small animal companion. While the companion is inside, the animal and case are immune to all damage and harmful effects. 
+Item;Tier 1 - Common;Piercing Arrows ;Three times per rest when you succeed on an attack with one of these arrows, you can add your Proficiency to the damage roll. 
+Item;Tier 1 - Common;Valorstone ;You can attach this stone to armor that doesn't already have a feature. The armor gains the following feature. Resilient: Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot. 
+Item;Tier 1 - Common;Skeleton Key ;When you use this key to open a locked door, you gain advantage on the Finesse Roll. 
+Item;Tier 1 - Common;Arcane Prism ;Position this prism in a location of your choosing and activate it. All allies within Close range of it gain a +1 bonus to their Spellcast Rolls. While activated, the prism can't be moved. Once the prism is deactivated, it can't be activated again until your next long rest. 
+Item;Tier 1 - Common;Minor Stamina Potion Recipe ;As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion. 
+Item;Tier 1 - Common;Minor Health Potion Recipe ;As a downtime move, you can use a vial of blood to craft a Minor Health Potion. 
+Item;Tier 1 - Common;Homing Compasses ;These two compasses point toward each other no matter how far apart they are. 
+Item;Tier 1 - Common;Corrector Sprite ;This tiny sprite sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you can gain advantage on an attack roll. 
+Item;Tier 1 - Common;Gecko Gloves ;You can climb up vertical surfaces and across ceilings. 
+Item;Tier 1 - Common;Lorekeeper ;You can store the name and details of up to three hostile creatures inside this book. You gain a +1 bonus to action rolls against those creatures. 
+Item;Tier 1 - Common;Vial of Darksmoke Recipe ;As a downtime move, you can mark a Stress to craft a Vial of Darksmoke. 
+Item;Tier 1 - Common;Boots of False Tracks;These boots leave traces of another type of humanoid of the same size.
+Item;Tier 1 - Common;Charlatan's Die;This six-sided die allows you to control the result.
+Item;Tier 1 - Common;Cloak of Billowing;This cloak can billow dramatically.
+Item;Tier 1 - Common;Cloak of Many Fashions;This cloak can change style, color and quality.
+Item;Tier 1 - Common;Clothes of Mending;This outfit of traveler's clothes magically mends itself to counteract daily wear and tear.
+Item;Tier 1 - Common;Dread Helm;This fearsome steel helm makes your eyes glow red.
+Item;Tier 1 - Common;Ear Horn of Hearing;This horn allows you to hear clearly up to Very Far range as if you wear at Close range.
+Item;Tier 1 - Common;Ersatz Eye;This artificial eye replaces a real one that was lost or removed.
+Item;Tier 1 - Common;Hat of Vermin;Three times a day, you can summon a friendly bat, rat or frog for one hour.
+Item;Tier 1 - Common;Hat of Wizardry;Once per Long Rest, as long as you wear the hat, you can cast Telepathy.
+Item;Tier 1 - Common;Instrument of Illusions;This musical instrument creates harmless, illusory visual effects without sound.
+Item;Tier 1 - Common;Lock of Trickery;This magical lock imposes disadvantage to pick the lock.
+Item;Tier 1 - Common;Orb of Direction;This orb helps determine which way is north.
+Item;Tier 1 - Common;Orb of Time;This orb helps determine whether it is morning, afternoon, evening, or nighttime outside.
+Item;Tier 1 - Common;Pipe of Smoke Monsters;This pipe exhales a puff of smoke that takes the form of a creature for a few seconds.
+Item;Tier 1 - Common;Pole of Angling;This pole transforms into a complete fishing pole.
+Item;Tier 1 - Common;Prosthetic Limb;Replace a lost limb.
+Item;Tier 1 - Common;Rope of Mending;This rope can be cut into pieces and put back together.
+Item;Tier 1 - Common;Talking Doll;This doll can speak up to six sentences when in conditions you specified.
+Item;Tier 1 - Common;Tankard of Sobriety;This tankard allows you to drink alcohol without getting drunk.
+Item;Tier 1 - Common;Veteran's Cane;This cane can transform into a regular longsword and back
+Item;Tier 4 - Legendary;Lakestrider Boots ;You can walk on the surface of water as if it were soft ground. 
+Item;Tier 4 - Legendary;Clay Companion ;When you sculpt this ball of clay into a clay animal companion, it behaves as that animal. For example, a clay spider can spin clay webs, while a clay bird can fly. The clay companion retains memory and identity across different shapes, but they can adopt new mannerisms with each form. 
+Item;Tier 4 - Legendary;Mythic Dust Recipe ;As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust. 
+Item;Tier 4 - Legendary;Shard of Memory ;Once per long rest, you can spend 2 Hope to recall a domain card from your vault instead of paying its Recall Cost. 
+Item;Tier 4 - Legendary;Gem of Alacrity ;You can attach this gem to a weapon, allowing you to use your Agility when making an attack with that weapon. 
+Item;Tier 4 - Legendary;Gem of Might ;You can attach this gem to a weapon, allowing you to use your Strength when making an attack with that weapon. 
+Item;Tier 4 - Legendary;Gem of Precision ;You can attach this gem to a weapon, allowing you to use your Finesse when making an attack with that weapon. 
+Item;Tier 4 - Legendary;Gem of Insight ;You can attach this gem to a weapon, allowing you to use your Instinct when making an attack with that weapon. 
+Item;Tier 4 - Legendary;Gem of Audacity ;You can attach this gem to a weapon, allowing you to use your Presence when making an attack with that weapon. 
+Item;Tier 4 - Legendary;Gem of Sagacity ;You can attach this gem to a weapon, allowing you to use your Knowledge when making an attack with that weapon. 
+Item;Tier 4 - Legendary;Ring of Unbreakable Resolve ;Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear. 
+Item;Tier 4 - Legendary;Belt of Unity ;Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two. 
+Item;Tier 4 - Legendary;Baba Yaga's Mortar and Pestle;Any potion made using Baba Yaga's Mortar and Pestle automatically upgrade to the superior Tier (max Tier 3).
+Item;Tier 4 - Legendary;Cloak of Invisibility;Once per Long Rest, this cloak makes you invisible for a maximum of 2 hours.
+Item;Tier 4 - Legendary;Shepherd's Crook;A weather-worn crook that is said to repel evil. Once per Long Rest, when you plant the Crook in the ground, you can summon a warm, weather and attack proof protective circle that will extend to Close range for 8 hours. Every creature of your choosing can enter and exit at will. As long as the circle is active, no enemy can attack you or enter.
+Item;Tier 4 - Legendary;Demonomicon of Iggwilv;A cursed grimoire written by one of the highest demon of the Circles Below that can only be destroyed in the Circles. You can mark Stress or Hit Points to increase the power of the spell you cast, either increasing the number of targets or the number of dices.
+Item;Tier 4 - Legendary;Golden Scarab of Protection;A small pendant in the shape of a scarab that grants +2 to Evasion (only one at a time)
+Item;Tier 4 - Legendary;Harp of Gilded Plenty;A sentient harp that will play for you on a successful Presence Roll (20). The song takes one hour and grant the benefits of a Long Rest and advantage on all Presence Roll for the day.
+Item;Tier 4 - Legendary;Helm of Perfect Potential;While wearing the Helm, you have advantage on Presence and Dexterity Roll.
+Item;Tier 4 - Legendary;Platinum Scarf;A scarf intertwined with platinum thread. While wearing it, you an your allies withing Very Close range gain resistance to magical damage.
+Item;Tier 4 - Legendary;Ring of Elemental Command;A ring that is linked to one given element. Once per rest, you can make a Knowledge Roll (20) and control up to 1 cubic meter of that element in Far range.
+Item;Tier 4 - Legendary;Ring of Invisibility;Once per Long Rest you become invisible until the ring is removed, or you attack or cast a spell.
+Item;Tier 4 - Legendary;Ring of Spell Turning;Wearing the ring gives you advantage on Reaction Roll against spells.
+Item;Tier 4 - Legendary;Robe of the Archmagi;A robe that was worn by an legendary Archmagi. You have advantge on all Spellcasting Roll and Reaction Roll to spells. Spellcast specifically against you are rolled at disadvantage.
+Item;Tier 4 - Legendary;Ruby Weave Gem;You can attach this gem to a non-magical weapon, allowing you to ignite the weapon and inflicting magical damage instead of physical.
+Item;Tier 4 - Legendary;Tome of the Stilled Tongue;A magic tome that is used during some ceremony. Secrets swore over this tome cannot be shared no matter what.
+Item;Tier 4 - Legendary;Universal Solvent;A solvent that will dissolve anything. Has to be maintain in a constant state of levitation.
+Item;Tier 3 - Rare;Paragon's Chain ;As a downtime move, you can meditate on an ideal or principle you hold dear and focus your will into this chain. Once per long rest, you can spend a Hope to roll a d20 as your Hope Die for rolls that directly align with that principle. 
+Item;Tier 3 - Rare;Elusive Amulet ;Once per long rest, you can activate this amulet to become Hidden until you move. While Hidden in this way, you remain unseen even if an adversary moves to where they would normally see you. 
+Item;Tier 3 - Rare;Hopekeeper Locket ;During a long rest, if you have 6 Hope, you can spend a Hope to imbue this locket with your bountiful resolve. When you have 0 Hope, you can use the locket to immediately gain a Hope. The locket must be re-imbued before it can be used this way again. 
+Item;Tier 3 - Rare;Infinite Bag ;When you store items in this bag, they are kept in a pocket dimension that never runs out of space. You can retrieve an item at any time. 
+Item;Tier 3 - Rare;Stride Relic ;You gain a +1 bonus to your Agility. You can only carry one relic. 
+Item;Tier 3 - Rare;Bolster Relic ;You gain a +1 bonus to your Strength. You can only carry one relic. 
+Item;Tier 3 - Rare;Control Relic ;You gain a +1 bonus to your Finesse. You can only carry one relic. 
+Item;Tier 3 - Rare;Attune Relic ;You gain a +1 bonus to your Instinct. You can only carry one relic. 
+Item;Tier 3 - Rare;Charm Relic ;You gain a +1 bonus to your Presence. You can only carry one relic. 
+Item;Tier 3 - Rare;Enlighten Relic ;You gain a +1 bonus to your Knowledge. You can only carry one relic. 
+Item;Tier 3 - Rare;Honing Relic ;You gain a +1 bonus to an Experience of your choice. You can only carry one relic. 
+Item;Tier 3 - Rare;Flickerfly Pendant ;While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range. 
+Item;Tier 3 - Rare;Amethyst Lodestone;Make a Strength Roll to throw the Lodestone to Far range. Every metallic object in Close Range is getting pulled toward the stone. If a creature wears an armor or a weapon, they must succeed a Strength Roll(18) to escape the magnetic pull.
+Item;Tier 3 - Rare;Astromancy Archive;The book contains 6 Valor spells up to Tier 3. Each spells can be used once.
+Item;Tier 3 - Rare;Belt of Dwarvenkind;While wearing this Belt, you can mark 2 Stress instead of marking a Hit Point from Minor Damages.
+Item;Tier 3 - Rare;Boots of Speed;While wearing these Boots, you can mark a Stress once per rest to get +1 on your Agility Rolls.
+Item;Tier 3 - Rare;Bowl of Commanding Water Elementals;An enchanted, rune-carved bowl. You can spend 3 Hopes to control a Greater Water Elemental
+Item;Tier 3 - Rare;Bracers of Defense;This bracers increase the potency of your Armor. Increase your Thresholds by one.
+Item;Tier 3 - Rare;Brazier of Commanding Fire Elementals;An enchanted, rune-carved brasier. You can spend 3 Hopes to control a Greater Fire Elemental
+Item;Tier 3 - Rare;Carpet of Flying;A magic flying carpet able to hold up to 4 medium size people.
+Item;Tier 3 - Rare;Censer of Controlling Air Elementals;An enchanted, rune-carved censer. You can spend 3 Hopes to control a Greater Air Elemental
+Item;Tier 3 - Rare;Chime of Opening;Make a Knowledge or Instinct Roll when ringing the chime near a magical lock to unlock it.
+Item;Tier 3 - Rare;Cloak of Displacement;Creatures have disadvantage on attack against you until you mark damage.
+Item;Tier 3 - Rare;Crystal Ball;You can spend 2 Hopes to make a Knowledge or Instinct Roll. On a success, you can see any creature that you know of, no matter where they are.
+Item;Tier 3 - Rare;Cube of Force;A 10-inches cube that expand to a 10-foot magical barrier for 1 hour. The cube can be broken with a Strength Roll(20).
+Item;Tier 3 - Rare;Dimensional Shackles;Shackles that are linked to a totem and completely lock a creature to a place in every dimension. The creature cannot move further than Close to Far range from the totem. They cannot change plane either by any means.
+Item;Tier 3 - Rare;Far Realm Shard;Make a Finesse Roll to throw this shard up to Far range. Creature within Very Close range must make an Agility Reaction rolls or take 3d6 magic damage and are Frightened. When Frightened, they have disadvantage on attack roll and must mark a Stress when taking action other than running away.
+Item;Tier 3 - Rare;Folding Boat;An entire boat that can hold up to 6 people and can be folded to fit into a pocket, weighing near nothing.
+Item;Tier 3 - Rare;Horn of Blasting;You can mark 3 Stress to blow this horn and force all creatures in Close range in front of you to do a Strength Roll. On a fail, they take 5d6 direct physical damage and are blasted to Far range. On a success, they take half damage.
+Item;Tier 3 - Rare;Horn of Valhalla;A Horn that can summon the spirit of dead warriors to fight (Spectral Guardian, Archer, Captain) once a day on a Presence Roll (20). The spirit dissipates once the fight is over.
+Item;Tier 3 - Rare;Libram of Souls and Flesh;The book contains 7 Codex spells up to Tier 3. Each spells can be used once.
+Item;Tier 3 - Rare;Mantle of Spell Resistance;Gives resistance to magical damage
+Item;Tier 3 - Rare;Portable Hole;A hole you can carry with yourself. When putting it on a flat surface, it creates a cylindrical hole up to 6 feet deep.
+Item;Tier 3 - Rare;Ring of Amity;You can spend a Hope to cast Deft Deceiver
+Item;Tier 3 - Rare;Ring of Animal Influence;You can spend a Hope to cast Nature's Tongue
+Item;Tier 3 - Rare;Ring of Evasion;Grant a +1 bonus to your Evasion
+Item;Tier 3 - Rare;Ring of Feather Falling;No damage from falling.
+Item;Tier 3 - Rare;Ring of Poison Resistance;Resistance to poison.
+Item;Tier 3 - Rare;Ring of Protection;Grant a +1 bonus to your Armor Base Score
+Item;Tier 3 - Rare;Ring of Regeneration;Once per short rest, you can clear 1d4 Hit Points
+Item;Tier 3 - Rare;Ring of Resistance;Resistance to one damage type.
+Item;Tier 3 - Rare;Ring of Telekinesis;Cast telekinesis.
+Item;Tier 3 - Rare;Ring of the Ram;When attacking, you can mark 2 Stress to get +2 bonus and deal an additional 1d10 damage.
+Item;Tier 3 - Rare;Rogue's Mantle;Once per Rest, you can spend a Hope to use Phantom Retreat.
+Item;Tier 3 - Rare;Sanctum Amulet;3 times per rest, you can spend a Hope to cast Final Words.
+Item;Tier 3 - Rare;Stone of Controlling Earth Elementals;An enchanted, rune-carved stone. You can spend 3 Hopes to control a Greater Earth Elemental
+Item;Tier 3 - Rare;War Horn of Valor;"Once per Rest, you can spend a Hope and blow into this horn to give the effect of ""Valor-Touched"" to ally at Close Range."
+Item;Tier 3 - Rare;Wayfarer's Boots;A pair of magical boots that ignore difficult terrain.
+Item;Tier 2 - Uncommon;Bloodstone ;You can attach this stone to a weapon that doesn't already have a feature. The weapon gains the following feature. Brutal: When you roll the maximum value on a damage die, roll an additional damage die. 
+Item;Tier 2 - Uncommon;Greatstone ;You can attach this stone to a weapon that doesn't already have a feature. The weapon gains the following feature. Powerful: On a successful attack, roll an additional damage die and discard the lowest result. 
+Item;Tier 2 - Uncommon;Glider ;While falling, you can mark a Stress to deploy this small parachute and glide safely to the ground. 
+Item;Tier 2 - Uncommon;Ring of Silence ;Spend a Hope to activate this ring. Your footsteps are silent until your next rest. 
+Item;Tier 2 - Uncommon;Calming Pendant ;When you would mark your last Stress, roll a d6. On a result of 5 or higher, don't mark it. 
+Item;Tier 2 - Uncommon;Dual Flask ;This flask can hold two different liquids. You can swap between them by flipping a small switch on the flask's side. 
+Item;Tier 2 - Uncommon;Bag of Ficklesand ;You can convince this small bag of sand to be much heavier or lighter with a successful Presence Roll (10). Additionally, on a successful Finesse Roll (10), you can blow a bit of sand into a target's face to make them temporarily Vulnerable. 
+Item;Tier 2 - Uncommon;Ring of Resistance ;Once per long rest, you can activate this ring after a successful attack against you to halve the damage. 
+Item;Tier 2 - Uncommon;Phoenix Feather ;If you have at least one Phoenix Feather on you when you fall unconscious, you gain a +1 bonus to the roll you make to determine whether you gain a scar. 
+Item;Tier 2 - Uncommon;Box of Many Goods ;Once per long rest, you can open this small box and roll a d12. On a result of 1�6, it's empty. On a result of 7�10, it contains one random common consumable. On a result of 11�12, it contains two random common consumables. 
+Item;Tier 2 - Uncommon;Airblade Charm ;You can attach this charm to a weapon with a Melee range. Three times per rest, you can activate the charm and attack a target within Close range. 
+Item;Tier 2 - Uncommon;Portal Seed ;You can plant this seed in the ground to grow a portal in that spot. The portal is ready to use in 24 hours. You can use this portal to travel to any other location where you planted a portal seed. A portal can be destroyed by dealing any amount of magic damage to it. 
+Item;Tier 2 - Uncommon;Bag of Tricks;Once per short rest, you can try to pull something out of the bag without knowing what it will be.
+Item;Tier 2 - Uncommon;Belt of Giant Strength;Once per Long Rest, you can mark a Stress or spend a Hope gain a +1 bonus to your Strength Roll
+Item;Tier 2 - Uncommon;Boots of Elvenkind;Mark a Stress to gain an advantage on Agility Reaction Roll.
+Item;Tier 2 - Uncommon;Boots of Striding and Springing;Ignore the Agility Roll to move up to Far Range during combat.
+Item;Tier 2 - Uncommon;Boots of the Winterlands;A pair of boots that warm your entire body and protects your against the cold even without warm clothes.
+Item;Tier 2 - Uncommon;Bracers of Archery;You gain a +1 to damages dealt with a bow.
+Item;Tier 2 - Uncommon;Brooch of Shielding;Once per Long Rest, that Brooch will reduce the damage of the first attack against you by one threshold.
+Item;Tier 2 - Uncommon;Broom of Flying;A broom that allows you to fly for one hour every day.
+Item;Tier 2 - Uncommon;Cap of Water Breathing;This cap allows you to breathe normally underwater for one hour a day
+Item;Tier 2 - Uncommon;Cloak of Elvenkind;This cloak gives you advantage to Finesse Roll to hide yourself.
+Item;Tier 2 - Uncommon;Cloak of Protection;This cloak gives you advantage to Reaction Roll against magical attack targeting you or an area.
+Item;Tier 2 - Uncommon;Cloak of the Manta Ray;When submerged in water, this cloak partially transform its wearer into a manta ray, allowing to breath underwater and swim more easily for an hour.
+Item;Tier 2 - Uncommon;Clockwork Amulet;Once per Long Rest,on an action roll, if the result is lower than 13, you can change the higher dice to get an automatic 13 as a result (example: a 5 Hope and 7 Fear becomes a 5 Hope and 8 Fear).
+Item;Tier 2 - Uncommon;Decanter of Endless Water;Whenever you put any liquid in that decanter, you will obtain perfectible drinkable water in about one minute.
+Item;Tier 2 - Uncommon;Dragonhide Belt;Once per Long Rest, you can mark a Stress or spend a Hope gain a +2 to your Instinct roll.
+Item;Tier 2 - Uncommon;Driftglobe;A globe of the planet that represent exactly the day and night cycle as if illuminated by an unknown source.
+Item;Tier 2 - Uncommon;Emerald Pen;Allow you to write invisible message, only readable through Emerald Glasses or with a spell.
+Item;Tier 2 - Uncommon;Eversmoking Bottle;A bottle that contains a smoke that seems to never run out. When opening the bottle, a thick cloud rapidly spreads and hinder visibility (complete cover at Close range, half cover at Far Range).
+Item;Tier 2 - Uncommon;Eyes of the Eagle;Grant advantage on Instinct Rolls that rely on sight.
+Item;Tier 2 - Uncommon;Fabulist Gem;Once per Long Rest, you can mark a Stress or spend a Hope gain a +2 to your Presence Roll.
+Item;Tier 2 - Uncommon;Gauntlets of Ogre Power;Once per Long Rest, you can mark a Stress or spend a Hope gain a +2 to your Strength Roll.
+Item;Tier 2 - Uncommon;Gem of Brightness;A small gem that glows in the dark, illuminating up to Close Range.
+Item;Tier 2 - Uncommon;Gloves of Climbing;When wearing those Gloves, you can spend a 1 Hope to gain a +2 to your Roll to climb
+Item;Tier 2 - Uncommon;Gloves of Thievery;When wearing those Gloves, you can spend 1 Hope to gain a +2 to your Roll to steal and pickpocket
+Item;Tier 2 - Uncommon;Goggles of Night;Grant you clear vision in the dark up to Close range and partial vision up to Far range.
+Item;Tier 2 - Uncommon;Hat of Disguise;Wearing that hat allows you to partially change your physical appearane. You gain advantage on Presence rolls.
+Item;Tier 2 - Uncommon;Headband of Intellect;Once per Long Rest, you can mark a Stress or spend a Hope to gain a +2 to your Knowledge Rolls.
+Item;Tier 2 - Uncommon;Lantern of Revealing;Once per rest, you can spend a Hope to reveal hidden messages and invisible objects by lighting up this lantern.
+Item;Tier 2 - Uncommon;Nature's Mantle;Adversaries have disadvantage on Instinct rolls to perceive you in a low darkness.
+Item;Tier 2 - Uncommon;Rhythm-Maker's Drum;A magic drum that will repeat a given pattern for 10min.
+Item;Tier 2 - Uncommon;Ring of Jumping;This ring gives you advantages on Agility rolls to jump to Far Range.
+Item;Tier 2 - Uncommon;Ring of Mind Shielding;This rings stops creatures from reading your thoughts.
+Item;Tier 2 - Uncommon;Ring of Puzzler's Wit;This ring has 3 charges a day to gain advantage on Knowledge checks.
+Item;Tier 2 - Uncommon;Ring of Swimming;Gives advantages to Agility rolls for swimming
+Item;Tier 2 - Uncommon;Ring of Warmth;This ring radiates of warmth for the wearer, negating possible disadvantages from the cold
+Item;Tier 2 - Uncommon;Ring of Water Walking;Allow to stand on and move across any liquid surface.
+Item;Tier 2 - Uncommon;Saddle of the Cavalier;This saddle prevents you from falling off your horse against your will.
+Item;Tier 2 - Uncommon;Hermit's Rune;Once per day, you can make an Instinct Roll (15) and try to get glimpse of the future. On a success and until your next long rest, whenever a bad outcome happens in front of you, you can spend 2 Hope to negate it.
+Item;Tier 2 - Uncommon;Sending Stones;Coming in identical pair, you can use the Stone to send a small object to the other.
+Item;Tier 2 - Uncommon;Spell Scroll;A scroll containing a Tier 2 Spell (requires a Spellcasting Trait)
+Item;Tier 2 - Uncommon;Wind Fan;A massive fan that can raise strong winds
+Item;Tier 2 - Uncommon;Winged Boots;A pair of boots with small wings that allow you to float and glide up to Close range
+Primary Weapon;Tier 1 - Common;Broadsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8 phy , <b>Burden</b>: One-Handed <br>   <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 1 - Common;Longsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d10+3 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Battleaxe; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+3 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Greatsword;" <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+3 phy , <b>Burden</b>: Two-Handed <br>  <b>Massive</b>: -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+Primary Weapon;Tier 1 - Common;Mace; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+1 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Warhammer; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d12+3 phy , <b>Burden</b>: Two-Handed <br>  <b>Heavy</b>: -1 to Evasion.
+Primary Weapon;Tier 1 - Common;Dagger; <i>Physical</i>,  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+1 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Quarterstaff; <i>Physical</i>,  <b>Trait</b>: Instinct,   <b>Range</b>: Melee,   <b>Damage</b>: d10+3 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Cutlass; <i>Physical</i>,  <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8+1 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Rapier; <i>Physical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8 phy , <b>Burden</b>: One-Handed <br>  <b>Quick</b>: When you make an attack, you can mark a Stress to target another creature within range.
+Primary Weapon;Tier 1 - Common;Halberd; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+2 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 1 - Common;Spear; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+3 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Shortbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Far,   <b>Damage</b>: d6+3 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Crossbow; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+1 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Longbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Far,   <b>Damage</b>: d8+3 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 1 - Common;Arcane Gauntlets; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+3 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Hallowed Axe; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+1 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Glowing Rings; <i>Magical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+2 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Hand Runes; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Very Close,   <b>Damage</b>: d10 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Returning Blade; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d8 mag , <b>Burden</b>: One-Handed <br>  <b>Returning</b>: When this weapon is thrown within its range,it appears in your hand immediately after the attack.
+Primary Weapon;Tier 1 - Common;Shortstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Close,   <b>Damage</b>: d8+1 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Dualstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d6+3 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 1 - Common;Scepter; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Far,   <b>Damage</b>: d8 mag , <b>Burden</b>: Two-Handed <br>  <b>Versatile</b>: This weapon can also be used with these statistics - Presence, Melee, d8.
+Primary Weapon;Tier 1 - Common;Wand; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Far,   <b>Damage</b>: d6+1 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 1 - Common;Greatstaff; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Very Far,   <b>Damage</b>: d6 mag , <b>Burden</b>: Two-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Secondary Weapon;Tier 1 - Common;Shortsword;  <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+2 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 1 - Common;Round Shield;  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d4 phy , <b>Burden</b>: One-Handed <br>  <b>Protective</b>: +1 to Armor Score, 
+Secondary Weapon;Tier 1 - Common;Tower Shield;"  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d6 phy , <b>Burden</b>: One-Handed <br>  <b>Barrier</b>: +2 to Armor Score; -1 to Evasion. "
+Secondary Weapon;Tier 1 - Common;Small Dagger;  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+2 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 1 - Common;Whip;  <b>Trait</b>: Presence,   <b>Range</b>: Very Close,   <b>Damage</b>: d6 phy , <b>Burden</b>: One-Handed <br>  <b>Startling</b>: Mark a Stress to cack the whip and force all adversaries within Melee range back to Close range. 
+Secondary Weapon;Tier 1 - Common;Grappler;  <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d6 phy , <b>Burden</b>: One-Handed <br>  <b>Hooked</b>: On a successful attack,  you can pull the target into Melee range.
+Secondary Weapon;Tier 1 - Common;Hand Crossbow;  <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+1 phy , <b>Burden</b>: One-Handed <br> 
+Primary Weapon;Tier 4 - Legendary;Legendary Broadsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8+9 phy , <b>Burden</b>: One-Handed <br>   <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 4 - Legendary;Legendary Longsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d10+12 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Battleaxe; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+12 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Greatsword;" <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+12 phy , <b>Burden</b>: Two-Handed <br>  <b>Massive</b>: -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result. "
+Primary Weapon;Tier 4 - Legendary;Legendary Mace; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+10 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Warhammer; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d12+12 phy , <b>Burden</b>: Two-Handed <br>  <b>Heavy</b>: -1 to Evasion.
+Primary Weapon;Tier 4 - Legendary;Legendary Dagger; <i>Physical</i>,  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+10 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Quarterstaff; <i>Physical</i>,  <b>Trait</b>: Instinct,   <b>Range</b>: Melee,   <b>Damage</b>: d10+12 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Cutlass; <i>Physical</i>,  <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8+10 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Rapier; <i>Physical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8+9 phy , <b>Burden</b>: One-Handed <br>  <b>Quick</b>: When you make an attack, you can mark a Stress to target another creature within range.
+Primary Weapon;Tier 4 - Legendary;Legendary Halberd; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+11 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 4 - Legendary;Legendary Spear; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+12 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Shortbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Far,   <b>Damage</b>: d6+12 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Crossbow; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+10 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Longbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Far,   <b>Damage</b>: d8+12 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 4 - Legendary;Dual-Ended Sword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 phy , <b>Burden</b>: Two-Handed <br>  <b>Quick</b>: When you make an attack, you can mark a Stress to target another creature within range.
+Primary Weapon;Tier 4 - Legendary;Impact Gauntlet; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+11 phy , <b>Burden</b>: One-Handed <br>  <b>Concussive</b>: On a successful attack, you can spend a Hope to knock the target back to Far range.
+Primary Weapon;Tier 4 - Legendary;Sledge Axe;" <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d12+13 phy , <b>Burden</b>: Two-Handed <br>  <b>Destructive</b>: -1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress"
+Primary Weapon;Tier 4 - Legendary;Curved Dagger; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+9 phy , <b>Burden</b>: One-Handed <br>  <b>Serrated</b>: When you roll a 1 on a damage die, it deals 8 damage instead.
+Primary Weapon;Tier 4 - Legendary;Extended Polearm; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+10 phy , <b>Burden</b>: Two-Handed <br>  <b>Long</b>: This weapon's attack targets all adversaries in a line within range.
+Primary Weapon;Tier 4 - Legendary;Swinging Ropeblade; <i>Physical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Close,   <b>Damage</b>: d8+9 phy , <b>Burden</b>: Two-Handed <br>  <b>Grappling</b>: On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you.
+Primary Weapon;Tier 4 - Legendary;Ricochet Axes; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Far,   <b>Damage</b>: d6+11 phy , <b>Burden</b>: Two-Handed <br>  <b>Bouncing</b>: Mark 1 or more Stress to hit that many targets in range of the attack.
+Primary Weapon;Tier 4 - Legendary;Aantari Bow; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+11 phy , <b>Burden</b>: Two-Handed <br>  <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 4 - Legendary;Hand Cannon; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+12 phy , <b>Burden</b>: One-Handed <br>  <b>Reloading</b>: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+Primary Weapon;Tier 4 - Legendary;Legendary Arcane Gauntlets; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+12 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Hallowed Axe; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+10 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Glowing Rings; <i>Magical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+11 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Hand Runes; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+9 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Returning Blade; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d8+9 mag , <b>Burden</b>: One-Handed <br>  <b>Returning</b>: When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+Primary Weapon;Tier 4 - Legendary;Legendary Shortstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Close,   <b>Damage</b>: d8+10 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Dualstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d6+12 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Scepter; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Far,   <b>Damage</b>: d8+9 mag , <b>Burden</b>: Two-Handed <br>  <b>Versatile</b>: This weapon can also be used with these statistics - Presence, Melee, d8+6
+Primary Weapon;Tier 4 - Legendary;Legendary Wand; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Far,   <b>Damage</b>: d6+10 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 4 - Legendary;Legendary Greatstaff; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+9 mag , <b>Burden</b>: Two-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 4 - Legendary;Sword of Light and Flame; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+11 mag , <b>Burden</b>: Two-Handed <br>  <b>Hot</b>: This weapon cuts through solid material.
+Primary Weapon;Tier 4 - Legendary;Siphoning Gauntlets; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 mag , <b>Burden</b>: Two-Handed <br>  <b>Lifestealing</b>: On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress.
+Primary Weapon;Tier 4 - Legendary;Midas Scythe; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 mag , <b>Burden</b>: Two-Handed <br>  <b>Greedy</b>: Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.
+Primary Weapon;Tier 4 - Legendary;Floating Bladeshards; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Close,   <b>Damage</b>: d8+9 mag , <b>Burden</b>: One-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 4 - Legendary;Bloodstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d20+7 mag , <b>Burden</b>: Two-Handed <br>  <b>Painful</b>: Each time you make a successful attack, you must mark a Stress
+Primary Weapon;Tier 4 - Legendary;Thistlebow; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d6+13mag , <b>Burden</b>: Two-Handed <br>  <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 4 - Legendary;Wand of Essek; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Far,   <b>Damage</b>: d8+13 mag , <b>Burden</b>: One-Handed <br>  <b>Timebending</b>: You choose the target of your attack after making your attack roll.
+Primary Weapon;Tier 4 - Legendary;Magus Revolver; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+13 mag , <b>Burden</b>: One-Handed <br>  <b>Reloading</b>: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+Primary Weapon;Tier 4 - Legendary;Fusion Gloves; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+9 mag , <b>Burden</b>: Two-Handed <br>  <b>Bonded</b>: Gain a bonus to your damage equal to your level.
+Secondary Weapon;Tier 4 - Legendary;Legendary Shortsword;  <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+5 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 4 - Legendary;Legendary Round Shield;  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d4+6 phy , <b>Burden</b>: One-Handed <br>  <b>Protective</b>: +4 to Armor Score, 
+Secondary Weapon;Tier 4 - Legendary;Legendary Tower Shield;"  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d6+6 phy , <b>Burden</b>: One-Handed <br>  <b>Barrier</b>: +5 to Armor Score; -1 to Evasion. "
+Secondary Weapon;Tier 4 - Legendary;Legendary Small Dagger;  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+5 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 4 - Legendary;Legendary Whip;  <b>Trait</b>: Presence,   <b>Range</b>: Very Close,   <b>Damage</b>: d6+6 phy , <b>Burden</b>: One-Handed <br>  <b>Startling</b>: Mark a Stress to cack the whip and force all adversaries within Melee range back to Close range. 
+Secondary Weapon;Tier 4 - Legendary;Legendary Grappler;  <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d6+6 phy , <b>Burden</b>: One-Handed <br>  <b>Hooked</b>: On a successful attack,  you can pull the target into Melee range.
+Secondary Weapon;Tier 4 - Legendary;Legendary Hand Crossbow;  <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+7 phy , <b>Burden</b>: One-Handed <br> 
+Secondary Weapon;Tier 4 - Legendary;Braveshield;  <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d4+6 phy , <b>Burden</b>: One-Handed <br> <b>Sheltering</b>: When you mark an Armor Slot,  it reduces damage for you and all allies within Melee range of you who took the same damage.
+Secondary Weapon;Tier 4 - Legendary;Knuckle Claws;  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d6+8 phy , <b>Burden</b>: One-Handed <br> <b>Double Up</b>: When you make an attack with your primary weapon,  you can deal damage to another target within Melee range.
+Secondary Weapon;Tier 4 - Legendary;Primer Shard;  <b>Trait</b>: Instinct,   <b>Range</b>: Very Close,   <b>Damage</b>: d4 phy , <b>Burden</b>: One-Handed <br> <b>Locked On</b>: On a successful attack,  your next attack against the same target with your primary weapon automatically succeeds.
+Primary Weapon;Tier 3 - Rare;Advanced Broadsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: One-Handed <br>   <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 3 - Rare;Advanced Longsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Battleaxe; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Greatsword;" <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 phy , <b>Burden</b>: Two-Handed <br>  <b>Massive</b>: -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+Primary Weapon;Tier 3 - Rare;Advanced Mace; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Warhammer; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d12+9 phy , <b>Burden</b>: Two-Handed <br>  <b>Heavy</b>: -1 to Evasion.
+Primary Weapon;Tier 3 - Rare;Advanced Dagger; <i>Physical</i>,  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+7 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Quarterstaff; <i>Physical</i>,  <b>Trait</b>: Instinct,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Cutlass; <i>Physical</i>,  <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8+7 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Rapier; <i>Physical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: One-Handed <br>  <b>Quick</b>: When you make an attack, you can mark a Stress to target another creature within range.
+Primary Weapon;Tier 3 - Rare;Advanced Halberd; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+8 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 3 - Rare;Advanced Spear; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+9 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Shortbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Far,   <b>Damage</b>: d6+9 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Crossbow; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+7 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Longbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Far,   <b>Damage</b>: d8+9 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 3 - Rare;Flickerfly Blade; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8+5 phy , <b>Burden</b>: One-Handed <br>  <b>Sharpwing</b>: Gain a bonus to your damage rolls equal to your Agility.
+Primary Weapon;Tier 3 - Rare;Bravesword;" <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d12+7 phy , <b>Burden</b>: Two-Handed <br>  <b>Brave</b>: -1 to Evasion; +3 to Severe damage threshold."
+Primary Weapon;Tier 3 - Rare;Hammer of Wrath; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+7 phy , <b>Burden</b>: Two-Handed <br>  <b>Devastating</b>: Before you make an attack roll
+Primary Weapon;Tier 3 - Rare;Labrys Axe; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+7 phy , <b>Burden</b>: Two-Handed <br>  <b>Protective</b>: +1 to Armor Score.
+Primary Weapon;Tier 3 - Rare;Meridian Cutlass; <i>Physical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d10+5 phy , <b>Burden</b>: One-Handed <br>  <b>Dueling</b>: When there are no other creatures within Close range of the target
+Primary Weapon;Tier 3 - Rare;Retractable Saber; <i>Physical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d10+7 phy , <b>Burden</b>: One-Handed <br>  <b>Retractable</b>: The blade can be hidden in the hilt to avoid detection.
+Primary Weapon;Tier 3 - Rare;Double Flail; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+8 phy , <b>Burden</b>: Two-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 3 - Rare;Talon Blades; <i>Physical</i>,  <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d10+7 phy , <b>Burden</b>: Two-Handed <br>  <b>Brutal</b>: When you roll the maximum value on a damage die
+Primary Weapon;Tier 3 - Rare;Black Powder Revolver; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+8 phy , <b>Burden</b>: One-Handed <br>  <b>Reloading</b>: After you make an attack
+Primary Weapon;Tier 3 - Rare;Spiked Bow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+7 phy , <b>Burden</b>: Two-Handed <br>  <b>Versatille</b>: This weapon can also be used with these statistics - Agility
+Primary Weapon;Tier 3 - Rare;Advanced Arcane Gauntlets; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+9 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Hallowed Axe; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+7 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Glowing Rings; <i>Magical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+8 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Hand Runes; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+6 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Returning Blade; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d8+6 mag , <b>Burden</b>: One-Handed <br>  <b>Returning</b>: When this weapon is thrown within its range,it appears in your hand immediately after the attack.
+Primary Weapon;Tier 3 - Rare;Advanced Shortstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Close,   <b>Damage</b>: d8+7 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Dualstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d6+9 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Scepter; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Far,   <b>Damage</b>: d8+6 mag , <b>Burden</b>: Two-Handed <br>  <b>Versatile</b>: This weapon can also be used with these statistics - Presence, Melee, d8+4.
+Primary Weapon;Tier 3 - Rare;Advanced Wand; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Far,   <b>Damage</b>: d6+7 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 3 - Rare;Advanced Greatstaff; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+6 mag , <b>Burden</b>: Two-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 3 - Rare;Axe of Fortunis; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+8 mag , <b>Burden</b>: Two-Handed <br>  <b>Lucky</b>: On a failed attack, you can Mark a Stress to reroll your attack.
+Primary Weapon;Tier 3 - Rare;Blessed Anlace; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Melee,   <b>Damage</b>: d10+6 mag , <b>Burden</b>: One-Handed <br>  <b>Healing</b>: During downtime, automatically clear a Hit Point.
+Primary Weapon;Tier 3 - Rare;Ghostblade; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d10+7 phy or mag , <b>Burden</b>: One-Handed <br>  <b>Otherworldly</b>: On a successful attack you can deal physical or magic damage.
+Primary Weapon;Tier 3 - Rare;Runes of Ruination; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Very Close,   <b>Damage</b>: d20+4 mag , <b>Burden</b>: One-Handed <br>  <b>Painful</b>: Each time you make a successful attack
+Primary Weapon;Tier 3 - Rare;Widogast Pendant; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Close,   <b>Damage</b>: d10+5 mag , <b>Burden</b>: One-Handed <br>  <b>Timebending</b>: You choose the target of your attack after making your attack roll.
+Primary Weapon;Tier 3 - Rare;Gilded Bow; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+7 mag , <b>Burden</b>: Two-Handed <br>  <b>Self-correcting</b>: When you roll a 1 on a damage die, it deals 6 damage instead.
+Primary Weapon;Tier 3 - Rare;Firestaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d6+7 mag , <b>Burden</b>: Two-Handed <br>  <b>Burning</b>: When you roll a 6 on a damage die, the target must mark a Stress.
+Primary Weapon;Tier 3 - Rare;Mage Orb; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Far,   <b>Damage</b>: d6+7 mag , <b>Burden</b>: One-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 3 - Rare;Ilmari's Rifle; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+6 mag , <b>Burden</b>: One-Handed <br>  <b>Reloading</b>: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+Secondary Weapon;Tier 3 - Rare;Advanced Shortsword;  <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8+4 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+4 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 3 - Rare;Advanced Round Shield;  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d4+4 phy , <b>Burden</b>: One-Handed <br>  <b>Protective</b>: +3 to Armor Score
+Secondary Weapon;Tier 3 - Rare;Advanced Tower Shield;"  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d6+4 phy , <b>Burden</b>: One-Handed <br>  <b>Barrier</b>: +4 to Armor Score; -1 to Evasion. "
+Secondary Weapon;Tier 3 - Rare;Advanced Small Dagger;  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+4 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+4 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 3 - Rare;Advanced Whip;  <b>Trait</b>: Presence,   <b>Range</b>: Very Close,   <b>Damage</b>: d6+4 phy , <b>Burden</b>: One-Handed <br>  <b>Startling</b>: Mark a Stress to cack the whip and force all adversaries within Melee range back to Close range. 
+Secondary Weapon;Tier 3 - Rare;Advanced Grappler;  <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d6+4 phy , <b>Burden</b>: One-Handed <br>  <b>Hooked</b>: On a successful attack,  you can pull the target into Melee range.
+Secondary Weapon;Tier 3 - Rare;Advanced Hand Crossbow;  <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+5 phy , <b>Burden</b>: One-Handed <br> 
+Secondary Weapon;Tier 3 - Rare;Buckler;  <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d4+4 phy , <b>Burden</b>: One-Handed <br>  <b>Deflecting</b>: When you are attacked,  you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Slots against the attack.
+Secondary Weapon;Tier 3 - Rare;Powered Gauntlet;  <b>Trait</b>: Knowledge,   <b>Range</b>: Close,   <b>Damage</b>: d6+4 phy , <b>Burden</b>: One-Handed <br>  <b>Charged</b>: Mark a Stress to  gain a +1 bonus to your Proficiency on a primary weapon attack
+Secondary Weapon;Tier 3 - Rare;Hand Sling;  <b>Trait</b>: Finesse,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+4 phy , <b>Burden</b>: One-Handed <br>  <b>Versatile</b>: This weapon can also be used with these statistics - Finesse,  Close
+Primary Weapon;Tier 2 - Uncommon;Improved Broadsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8+3 phy , <b>Burden</b>: One-Handed <br>   <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 2 - Uncommon;Improved Longsword; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d10+6 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Battleaxe; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+6 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Greatsword;" <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+6 phy , <b>Burden</b>: Two-Handed <br>  <b>Massive</b>: -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+Primary Weapon;Tier 2 - Uncommon;Improved Mace; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+4 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Warhammer; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d12+6 phy , <b>Burden</b>: Two-Handed <br>  <b>Heavy</b>: -1 to Evasion.
+Primary Weapon;Tier 2 - Uncommon;Improved Dagger; <i>Physical</i>,  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+4 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Quarterstaff; <i>Physical</i>,  <b>Trait</b>: Instinct,   <b>Range</b>: Melee,   <b>Damage</b>: d10+6 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Cutlass; <i>Physical</i>,  <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8+4 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Rapier; <i>Physical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Melee,   <b>Damage</b>: d8+3 phy , <b>Burden</b>: One-Handed <br>  <b>Quick</b>: When you make an attack, you can mark a Stress to target another creature within range.
+Primary Weapon;Tier 2 - Uncommon;Improved Halberd; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+5 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 2 - Uncommon;Improved Spear; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Shortbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Far,   <b>Damage</b>: d6+6 phy , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Crossbow; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+4 phy , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Longbow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Far,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: Two-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 2 - Uncommon;Gilded Falchion; <i>Physical</i>,   <b>Trait</b>: Strength,  <b>Range</b>: Melee,   <b>Damage</b>: d10+4 phy , <b>Burden</b>: One-Handed <br>  <b>Cumbersome</b>: -1 to Finesse.
+Primary Weapon;Tier 2 - Uncommon;Knuckle Blades; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+6 phy , <b>Burden</b>: Two-Handed <br>  <b>Brutal</b>: When you roll the maximum value on a damage die
+Primary Weapon;Tier 2 - Uncommon;Urok Broadsword; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+3 phy , <b>Burden</b>: One-Handed <br>  <b>Deadly</b>: When you deal Severe damage
+Primary Weapon;Tier 2 - Uncommon;Bladed Whip; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+3 phy , <b>Burden</b>: One-Handed <br>  <b>Quick</b>: When you make an attack, you can mark a Stress to target another creature within range.
+Primary Weapon;Tier 2 - Uncommon;Steelforged Halberd; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+4 phy , <b>Burden</b>: Two-Handed <br>  <b>Scary</b>: On a successful attack
+Primary Weapon;Tier 2 - Uncommon;War Scythe; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Very Close,   <b>Damage</b>: d8+5 phy , <b>Burden</b>: Two-Handed <br>  <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 2 - Uncommon;Blunderbuss; <i>Physical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Close,  <b>Damage</b>: d8+6 phy , <b>Burden</b>: Two-Handed <br>  <b>Reloading</b>: After you make an attack
+Primary Weapon;Tier 2 - Uncommon;Greatbow; <i>Physical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Far,   <b>Damage</b>: d8+6 phy , <b>Burden</b>: Two-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 2 - Uncommon;Finehair Bow; <i>Physical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+5 phy , <b>Burden</b>: Two-Handed <br>  <b>Reliable</b>: +1 to attack rolls.
+Primary Weapon;Tier 2 - Uncommon;Improved Arcane Gauntlets; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+6 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Hallowed Axe; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d8+4 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Glowing Rings; <i>Magical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+5 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Hand Runes; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Very Close,   <b>Damage</b>: d10+3 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Returning Blade; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d8+3 mag , <b>Burden</b>: One-Handed <br>  <b>Returning</b>: When this weapon is thrown within its range
+Primary Weapon;Tier 2 - Uncommon;Improved Shortstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Close,   <b>Damage</b>: d8+4 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Dualstaff; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d6+6 mag , <b>Burden</b>: Two-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Scepter; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Far,   <b>Damage</b>: d8+3 mag , <b>Burden</b>: Two-Handed <br>  <b>Versatile</b>: This weapon can also be used with these statistics - Presence
+Primary Weapon;Tier 2 - Uncommon;Improved Wand; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Far,   <b>Damage</b>: d6+4 mag , <b>Burden</b>: One-Handed <br>  
+Primary Weapon;Tier 2 - Uncommon;Improved Greatstaff; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Very Far,   <b>Damage</b>: d6+3 mag , <b>Burden</b>: Two-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 2 - Uncommon;Ego Blade; <i>Magical</i>,   <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d12+4 mag , <b>Burden</b>: One-Handed <br>  <b>Pompous</b>: You must have a Presence of 0 or lower to use this weapon.
+Primary Weapon;Tier 2 - Uncommon;Casting Sword; <i>Magical</i>,   <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d10+4 mag , <b>Burden</b>: Two-Handed <br>  <b>Versatile</b>: This weapon can also be used with these statistics - Knowledge
+Primary Weapon;Tier 2 - Uncommon;Devouring Dagger; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+4 mag , <b>Burden</b>: One-Handed <br>  <b>Scary</b>: On a successful attack
+Primary Weapon;Tier 2 - Uncommon;Hammer of Exota; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Melee,   <b>Damage</b>: d8+6 mag , <b>Burden</b>: Two-Handed <br>  <b>Eruptive</b>: On a successful attack against a target within Melee range
+Primary Weapon;Tier 2 - Uncommon;Yutari Bloodbow; <i>Magical</i>,   <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+4 mag , <b>Burden</b>: Two-Handed <br>  <b>Brutal</b>: When you roll the maximum value on a damage die
+Primary Weapon;Tier 2 - Uncommon;Elder Bow; <i>Magical</i>,   <b>Trait</b>: Instinct,   <b>Range</b>: Far,   <b>Damage</b>: d6+4 mag , <b>Burden</b>: Two-Handed <br>  <b>Powerful</b>: On a successful attack, roll an additional damage die and discard the lowest result.
+Primary Weapon;Tier 2 - Uncommon;Scepter of Elias; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Far,   <b>Damage</b>: d6+3 mag , <b>Burden</b>: One-Handed <br>  <b>Invigorating</b>: On a successful attack
+Primary Weapon;Tier 2 - Uncommon;Wand of Enthrallment; <i>Magical</i>,   <b>Trait</b>: Presence,   <b>Range</b>: Far,   <b>Damage</b>: d6+4 mag , <b>Burden</b>: One-Handed <br>  <b>Persuasive</b>: Before you make a Presence Roll
+Primary Weapon;Tier 2 - Uncommon;Keeper's Staff; <i>Magical</i>,   <b>Trait</b>: Knowledge,   <b>Range</b>: Far,   <b>Damage</b>: d6+4 mag , <b>Burden</b>: Two-Handed <br>  <b>Reliable</b>: +1 to attack rolls.
+Secondary Weapon;Tier 2 - Uncommon;Improved Shortsword;  <b>Trait</b>: Agility,   <b>Range</b>: Melee,   <b>Damage</b>: d8+2 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+3 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 2 - Uncommon;Improved Round Shield;  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d4+2 phy , <b>Burden</b>: One-Handed <br>  <b>Protective</b>: +2 to Armor Score, 
+Secondary Weapon;Tier 2 - Uncommon;Improved Tower Shield;"  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d6+2 phy , <b>Burden</b>: One-Handed <br>  <b>Barrier</b>: +3 to Armor Score; -1 to Evasion. "
+Secondary Weapon;Tier 2 - Uncommon;Improved Small Dagger;  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d8+2 phy , <b>Burden</b>: One-Handed <br>  <b>Paired</b>:+3 to primary weapon damage to target within Melee range. 
+Secondary Weapon;Tier 2 - Uncommon;Improved Whip;  <b>Trait</b>: Presence,   <b>Range</b>: Very Close,   <b>Damage</b>: d6+2 phy , <b>Burden</b>: One-Handed <br>  <b>Startling</b>: Mark a Stress to cack the whip and force all adversaries within Melee range back to Close range. 
+Secondary Weapon;Tier 2 - Uncommon;Improved Grappler;  <b>Trait</b>: Finesse,   <b>Range</b>: Close,   <b>Damage</b>: d6+2 phy , <b>Burden</b>: One-Handed <br>  <b>Hooked</b>: On a successful attack,  you can pull the target into Melee range.
+Secondary Weapon;Tier 2 - Uncommon;Improved Hand Crossbow;  <b>Trait</b>: Finesse,   <b>Range</b>: Far,   <b>Damage</b>: d6+3 phy , <b>Burden</b>: One-Handed <br> 
+Secondary Weapon;Tier 2 - Uncommon;Spiked Shield;"  <b>Trait</b>: Strength,   <b>Range</b>: Melee,   <b>Damage</b>: d6+2 phy , <b>Burden</b>: One-Handed <br>  <b>Double Duty</b>: +1 to Armor Score; +1 to primary weapon damage within Melee range. "
+Secondary Weapon;Tier 2 - Uncommon;Parrying Dagger;  <b>Trait</b>: Finesse,   <b>Range</b>: Melee,   <b>Damage</b>: d6+2 phy , <b>Burden</b>: One-Handed <br>  <b>Parry</b>: When you are attacked,  roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice.
+Secondary Weapon;Tier 2 - Uncommon;Returning Axe;  <b>Trait</b>: Agility,   <b>Range</b>: Close,   <b>Damage</b>: d6+4 phy , <b>Burden</b>: One-Handed <br>  <b>Returning</b>: When this weapon is thrown within its range,  it appears in your hand immediately after the attack.
