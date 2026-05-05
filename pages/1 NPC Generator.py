@@ -53,6 +53,7 @@ if create:
 
     pnjs = []
     for _ in range(nombre_pnj):
+        tier = random.int(1:5)
         name = set_prenoms.make_name()
         surname = set_noms.make_name()
         descr_general = []
