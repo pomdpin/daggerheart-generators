@@ -11,10 +11,11 @@ st.set_page_config(page_title="Générateur de PNJs")
 app_folder = Path("files")
 
 # Streamlit UI
-st.header("Générateur de PNJs / NPC Generator")
+st.header("Générateur de PNJs")
 on = st.toggle("Toggle to switch to English")
 
 if on:
+    st.header("NPCs Generator")
     nombre_pnj = st.number_input("How many NPCs ?", min_value=1, value=1)
 else :
     nombre_pnj = st.number_input("Combien de PNJs ?", min_value=1, value=1)
