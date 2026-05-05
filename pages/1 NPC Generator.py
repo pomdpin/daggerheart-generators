@@ -80,7 +80,7 @@ if create:
             pnj_name = f"""{name} {surname} - Tier {tier} {community} {ascendance_random} {classe}"""
             pnj_desc = f"""
             Description : {age} {age_terme}. {phrase_descr_asc} with {descr_general[0]} eyes,  wearing {descr_general[1]} {descr_general[2]}.
-            <p><p>Quirk : {descr_general[3]}"""
+            Quirk : {descr_general[3]}"""
         else :
             pnj_name = f"{name} {surname}"
             pnj_desc = f"""{classe} faisant partie de la {community},
