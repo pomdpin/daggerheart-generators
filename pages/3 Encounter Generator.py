@@ -14,6 +14,7 @@ from pathlib import Path
 import pandas as pd
 import random
 
+st.set_page_config(page_title="Encounter Generator")
 files = Path("files")
 adversary_list = pd.read_csv(files/"list_adversaries.csv", sep=";")
 
@@ -21,7 +22,6 @@ option_tier = ["Lower the Tier (+1BP)", "Keep the same tier", "Increase the Tier
 option_damage = ["No", "Yes (-2BP)"]
 option_envt = ["Arctic", "Cave", "Coast", "Desert", "Dungeons", "Forest", "Grassland", "Mountain", "Ruins", "Sea", "Swamp", "Urban"]
 
-st.title("Daggerheart")
 st.header("Encounter Generator")
 
 col1, col2 = st.columns(2)

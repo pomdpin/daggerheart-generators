@@ -14,7 +14,8 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 
-st.title("Daggerheart")
+st.set_page_config(page_title="Loot Generator")
+
 st.header("Loot Generator")
 
 files = Path("files")

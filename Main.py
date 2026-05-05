@@ -1,11 +1,11 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Hello"
+    page_title="Daggerheart Generators"
 )
 
 st.write("# Welcome to Streamlit! 👋")
-st.sidebar.success("Select a demo above.")
+st.sidebar.success("Select a generator")
 
 st.markdown(
     """

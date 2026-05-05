@@ -5,8 +5,6 @@ import json
 from pathlib import Path
 import namemaker
 
-st.set_page_config(page_title="Générateur de PNJs")
-
 # Load your data
 app_folder = Path("files")
 
@@ -14,9 +12,11 @@ app_folder = Path("files")
 on = st.toggle("Toggle to switch to English")
 
 if on:
+    st.set_page_config(page_title="NPCs Generator")
     st.header("NPCs Generator")
     nombre_pnj = st.number_input("How many NPCs ?", min_value=1, value=1)
 else :
+    st.set_page_config(page_title="Générateur de PNJs")
     st.header("Générateur de PNJs")
     nombre_pnj = st.number_input("Combien de PNJs ?", min_value=1, value=1)
 
