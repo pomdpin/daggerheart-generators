@@ -5,12 +5,14 @@ import json
 from pathlib import Path
 import namemaker
 
+st.set_page_config(page_title="Générateur de PNJs")
+
 # Load your data
 app_folder = Path("files")
 
 # Streamlit UI
 st.title("Daggerheart")
-st.header("Générateur de PNJs / NPC Generator")
+st.sidebar.header("Générateur de PNJs / NPC Generator")
 on = st.toggle("Toggle to switch to English")
 
 if on:
