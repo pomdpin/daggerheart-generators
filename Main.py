@@ -4,28 +4,32 @@ st.set_page_config(
     page_title="Daggerheart Generators"
 )
 
-st.write("# Welcome to Streamlit! 👋")
-st.sidebar.success("Select a generator")
+st.write("# Welcome to Daggerheart Generator")
 
 st.markdown(
     """
-    Streamlit is an open-source app framework built specifically for
-    Machine Learning and Data Science projects.
+    Daggerheart Generator is a fan-made WebApp specifically created to help GMs prepare their Daggerheart adventure.
+    
+    Create brand new NPCs with ancestry-based descriptions and unique traits with our NPC Generator !
+    Or generate a bunch of items for your party to loot from the chests of this dungeon they're exploring with our Loot Generator !
+    And of course, no treasure chest would be complete without some adversaries to fight against, with our Encounter Generator !
 
-    **👈 Select a demo from the dropdown on the left** to see some examples
-    of what Streamlit can do!
+   
+    All three generators are SRD-compliant and do not contain any official Daggerheart out content outside of the SRD. 
+    The Loot Generator contains fan-converted and homebrewed items.
+    All content  are available for free on GitHub, including the database for loots and adversaries.
+    - https://github.com/pomdpin/daggerheart-generators
 
-    ### Want to learn more?
+    These generators are completely free of use and do not require any account.
+    If you want, you can leave a tip to the creator at : https://ko-fi.com/yoannart91940
 
-    - Check out [streamlit.io](https://streamlit.io)
-    - Jump into our [documentation](https://docs.streamlit.io)
-    - Ask a question in our [community
-      forums](https://discuss.streamlit.io)
-
-    ### See more complex demos
-
-    - Use a neural net to [analyze the Udacity Self-driving Car Image
-      Dataset](https://github.com/streamlit/demo-self-driving)
-    - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
+    Need an illustration for your beloved PC, your BBEG or a that scene you have in mind ? You can order an art commission at : https://artistree.io/yoannart
+    
+    ________________________________________
+         **Copyright/Attribution: Daggerheart**
+         \r*This project is unofficial fan content and is not approved or endorsed in any way by Critical Role.*
+         \r*This product includes materials from the **Daggerheart System Reference Document 1.0**, **© Critical Role, LLC.** under the terms of the **Darrington Press Community Gaming (DPCGL) License**. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.*
+         \r*All Rights Reserved. Sous licence **Black Book Editions**, tous droits réservés.*
+    
 """
 )
