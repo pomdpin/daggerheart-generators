@@ -9,7 +9,7 @@ st.write("# Welcome to Daggerheart Generator")
 st.html(
     """
     Daggerheart Generator is a fan-made WebApp specifically created to help GMs prepare their Daggerheart adventure.
-    
+    <p>
     <p>Create brand new NPCs with ancestry-based descriptions and unique traits with our NPC Generator !
     <br>Or generate a bunch of items for your party to loot from the chests of this dungeon they're exploring with our Loot Generator !
     <br>And of course, no treasure chest would be complete without some adversaries to fight against, with our Encounter Generator !
@@ -17,12 +17,10 @@ st.html(
    <p>
    <p>All three generators are SRD-compliant and do not contain any official Daggerheart out content outside of the SRD. 
    <br>The Loot Generator contains fan-converted and homebrewed items.
-   <br>All content  are available for free on GitHub, including the database for loots and adversaries.
-   <ul>https://github.com/pomdpin/daggerheart-generators</ul>
-
-   <p>These generators are completely free of use and do not require any account.
-   <br>If you want, you can leave a tip to the creator at : https://ko-fi.com/yoannart91940
-   <br>Need an illustration for your beloved PC, your BBEG or a that scene you have in mind ? You can order an art commission at : https://artistree.io/yoannart
+   <br>These generators are completely free of use and do not require any account.
+   <br>All content  are available for free on <a href = "https://github.com/pomdpin/daggerheart-generators" target="_blank">GitHub</a>, including the database for loots and adversaries.
+   <br>If you want, you can leave a tip to the creator at : <a href="https://ko-fi.com/yoannart91940" target="_blank">https://ko-fi.com/yoannart91940</a>
+   <br>Need an illustration for your beloved PC, your BBEG or a that scene you have in mind ? You can order an art commission at : <a href="https://artistree.io/yoannart" target="_blank">https://artistree.io/yoannart</a>
    <p>
    <br>________________________________________
     <br><b>**Copyright/Attribution: Daggerheart**</b>
