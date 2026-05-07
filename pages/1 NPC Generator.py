@@ -4,6 +4,7 @@ import random
 import json
 from pathlib import Path
 import namemaker
+import numpy as np
 
 # Load your data
 app_folder = Path("files")
@@ -46,6 +47,19 @@ if not ascendance:
 elif isinstance(ascendance, str):
     ascendance = [ascendance]
 
+def random_normal_in_range(min_age, max_age, mean=None, std_dev=None):
+    # Default mean and standard deviation if not provided
+    if mean is None:
+        mean = (min_age + max_age) / 2  # Center the mean
+    if std_dev is None:
+        std_dev = (max_age - min_age) / 4  # Adjust std_dev to fit most values in the range
+
+    # Generate a random number from a normal distribution
+    while True:
+        age = np.random.normal(mean, std_dev)
+        # Clip the value to the range [min_age, max_age]
+        if min_age <= age <= max_age:
+            return int(round(age))  # Round to the nearest integer
 
 if create:
     set_prenoms = namemaker.make_name_set(names["Prénoms"], order=3, name_len_func=len, clean_up=True)
@@ -60,7 +74,7 @@ if create:
         descr_asc = []
         classe = random.choice(heritages["Classe"])
         ascendance_random = random.choice(ascendance)
-        age = random.randint(heritages["Ascendance"][ascendance_random]["age_min"], heritages["Ascendance"][ascendance_random]["age_max"])
+        age =random_normal_in_range(heritages["Ascendance"][ascendance_random]["age_min"], heritages["Ascendance"][ascendance_random]["age_max"])
         taille = random.randint(heritages["Ascendance"][ascendance_random]["taille_min"], heritages["Ascendance"][ascendance_random]["taille_max"])
         community = random.choice(list(heritages["Communauté"].keys()))
         personnality = random.choice(heritages["Communauté"][community])
