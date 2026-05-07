@@ -86,7 +86,7 @@ if create:
         else :
             pnj_name = f"""{name} {surname} - Tier {tier}
             \r {classe} de la {community}"""
-            pnj_desc = f"""**Description** : {ascendance_random} de {age}{age_terme} mesurant {taille}cm. {phrase_descr_asc} aux yeux {descr_general[0]}. {descr_general[1]} {descr_general[2]}.
+            pnj_desc = f"""**Description** : {ascendance_random} de {age}{age_terme} aux yeux {descr_general[0]} et mesurant {taille}cm. {phrase_descr_asc}. Vêtu {descr_general[1]} {descr_general[2]}.
             \r**Personnalité** : {descr_general[3]}"""
             #\r**Métier** : 
             #\r**Ville** : """
