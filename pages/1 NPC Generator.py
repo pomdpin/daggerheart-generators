@@ -80,16 +80,16 @@ if create:
             pnj_name = f"""{name} {surname} - Tier {tier} 
             \r {community} {ascendance_random} {classe}"""
             pnj_desc = f"""**Description**: {age} {age_terme}. {phrase_descr_asc} with {descr_general[0]} eyes,  wearing {descr_general[1]} {descr_general[2]}.
-            \r**Quirk**: {descr_general[3]}
-            \r**Occupation**: 
-            \r**Home**:"""
+            \r**Quirk**: {descr_general[3]}"""
+            #\r**Occupation**: 
+            #\r**Home**:"""
         else :
             pnj_name = f"""{name} {surname} - Tier {tier}
             \r {classe} de la {community}"""
-            pnj_desc = f"""**Description** : {ascendance_random} de {age}{age_terme} mesurant {taille}cm, vêtu {descr_general[1]} {descr_general[2]}.{phrase_descr_asc}.
-            \r**Personnalité** : {descr_general[3]}
-            \r**Métier** : 
-            \r**Ville** : """
+            pnj_desc = f"""**Description** : {ascendance_random} de {age}{age_terme} mesurant {taille}cm. {phrase_descr_asc} aux yeux {descr_general[0]}. {descr_general[1]} {descr_general[2]}.
+            \r**Personnalité** : {descr_general[3]}"""
+            #\r**Métier** : 
+            #\r**Ville** : """
 
         pnjs.append((pnj_name, pnj_desc))
 
