@@ -78,8 +78,8 @@ if create:
 
         if on:
             pnj_name = f"""{name} {surname} - Tier {tier} 
-            \r {community} {ascendance_random} {classe}"""
-            pnj_desc = f"""**Description**: {age} {age_terme}. {phrase_descr_asc} with {descr_general[0]} eyes,  wearing {descr_general[1]} {descr_general[2]}.
+            \r {community} {classe}"""
+            pnj_desc = f"""**Description**: {age} {age_terme} {ascendance_random} with {descr_general[0]} eyes. {phrase_descr_asc.capitalize()}. Wearing {descr_general[1]} {descr_general[2]}.
             \r**Quirk**: {descr_general[3]}"""
             #\r**Occupation**: 
             #\r**Home**:"""
