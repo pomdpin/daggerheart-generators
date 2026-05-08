@@ -26,7 +26,7 @@ file_name = "heritage_en.json" if on else "heritage_fr.json"
 file_descr = "description_en.json" if on else "description_fr.json"
 age_terme = "years old" if on else "ans"
 
-with open(app_folder/"prenoms_noms.json", encoding="utf-8") as names:
+with open(app_folder/"noms.json", encoding="utf-8") as names:
     names = json.load(names)
 with open(app_folder/file_name, encoding="utf-8") as heritage:
     heritages = json.load(heritage)
@@ -64,12 +64,14 @@ def random_normal_in_range(min_age, max_age, mean=None, std_dev=None):
 if create:
     set_prenoms = namemaker.make_name_set(names["Prénoms"], order=3, name_len_func=len, clean_up=True)
     set_noms = namemaker.make_name_set(names["Noms de famille"], order=3, name_len_func=len, clean_up=True)
+    set_town = namemaker.make_name_set(names["Villes", order=2, name_len_func=len, clean_up=True])
 
     pnjs = []
     for _ in range(nombre_pnj):
         tier = random.randint(1,4)
         name = set_prenoms.make_name()
         surname = set_noms.make_name()
+        town = set_town.make_name()
         descr_general = []
         descr_asc = []
         classe = random.choice(heritages["Classe"])
@@ -94,16 +96,17 @@ if create:
             pnj_name = f"""{name} {surname} - Tier {tier} 
             \r {community} {classe}"""
             pnj_desc = f"""**Description**: {age} {age_terme}, about {round(taille/5)*5}cm tall {ascendance_random} with {descr_general[0]} eyes. {phrase_descr_asc.capitalize()}. Wearing {descr_general[1]} {descr_general[2]}.
-            \r**Quirk**: {descr_general[3]}"""
-            #\r**Occupation**: 
-            #\r**Home**:"""
+            \r**Quirk**: {descr_general[3]}
+            \r**Home**: {town}"""
+            #\r**Occupation**:"""" 
+            
         else :
             pnj_name = f"""{name} {surname} - Tier {tier}
             \r {classe} de la {community}"""
             pnj_desc = f"""**Description** : {ascendance_random} de {age}{age_terme} aux yeux {descr_general[0]} et mesurant environ {round(taille/5)*5}cm. {phrase_descr_asc.capitalize()}. Vêtu {descr_general[1]} {descr_general[2]}.
-            \r**Personnalité** : {descr_general[3]}"""
-            #\r**Métier** : 
-            #\r**Ville** : """
+            \r**Personnalité** : {descr_general[3]}
+            \r**Ville** : {town}"""
+            #\r**Métier** : """
 
         pnjs.append((pnj_name, pnj_desc))
 
