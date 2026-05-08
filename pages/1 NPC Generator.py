@@ -64,7 +64,7 @@ def random_normal_in_range(min_age, max_age, mean=None, std_dev=None):
 if create:
     set_prenoms = namemaker.make_name_set(names["Prénoms"], order=3, name_len_func=len, clean_up=True)
     set_noms = namemaker.make_name_set(names["Noms de famille"], order=3, name_len_func=len, clean_up=True)
-    set_town = namemaker.make_name_set(names["Villes", order=2, name_len_func=len, clean_up=True])
+    set_town = namemaker.make_name_set(names["Villes"], order=2, name_len_func=len, clean_up=True)
 
     pnjs = []
     for _ in range(nombre_pnj):
