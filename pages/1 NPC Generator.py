@@ -35,7 +35,7 @@ with open(app_folder/file_descr, encoding="utf-8") as description:
 
 option_ancestry = list(heritages["Ascendance"].keys())
 if on :
-    ascendance = st.pills("Choose one or several ancestries to generate from:", option_ancestry)
+    ascendance = st.pills("Choose one or several ancestries to generate from:", option_ancestry, selection_mode="multi")
     create = st.button("Generate")
 else:
     ascendance = st.pills("Choisissez une ou plusieurs ascendances à partir desquelles générer:", option_ancestry, selection_mode="multi")
@@ -95,7 +95,7 @@ if create:
         if on:
             pnj_name = f"""{name} {surname} - Tier {tier} 
             \r {community} {classe}"""
-            pnj_desc = f"""**Description**: {age} {age_terme}, about {round(taille/5)*5}cm tall {ascendance_random} with {descr_general[0]} eyes. {phrase_descr_asc.capitalize()}. Wearing {descr_general[1]} {descr_general[2]}.
+            pnj_desc = f"""**Description**: {age} {age_terme}, about {round(taille/5)*5}cm tall {ascendance_random} with {descr_general[0]} eyes. {phrase_descr_asc.capitalize()}. Wears {descr_general[1]} {descr_general[2]}.
             \r**Quirk**: {descr_general[3]}
             \r**Home**: {town}"""
             #\r**Occupation**:"""" 
